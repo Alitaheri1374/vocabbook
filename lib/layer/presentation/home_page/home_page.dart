@@ -34,10 +34,18 @@ class HomePage extends StatelessWidget {
                           itemCount: state.data.length,
                           itemBuilder: (context, index) {
                             return Card(
-                              child: Column(
-                                children: [
-                                  Text(state.data[index].word)
-                                ],
+                              child: Padding(
+                                padding: const EdgeInsets.all(8.0),
+                                child: Column(
+                                  mainAxisAlignment: MainAxisAlignment.start,
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    Text(state.data[index].word),
+                                    Align(
+                                        alignment: Alignment.bottomRight,
+                                        child: Text(state.data[index].meaning??''))
+                                  ],
+                                ),
                               ),
                             );
                           },):
@@ -49,7 +57,6 @@ class HomePage extends StatelessWidget {
           floatingActionButton: FloatingActionButton(onPressed: () {
             Route route = MaterialPageRoute(
               builder: (context) => AddVocabPage(),);
-            Navigator.push(context, route);
             Navigator.push(context, route);
           },),
         );

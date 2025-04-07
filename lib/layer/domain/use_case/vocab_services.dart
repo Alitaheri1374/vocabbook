@@ -11,8 +11,9 @@ class VocabServices{
     return await vocabRepository.get();
   }
 
-  Future<bool>insert({required String word,String? meaning})async{
-    VocabModel vocab=VocabModel(word: word,meaning: meaning,typeWord: 0,status: 0,isFavorite: false,createdTime: DateTime.now().toString());
+  Future<bool> insert ({required String word,String? meaning})async{
+    VocabModel vocab=VocabModel(word: word,meaning: meaning,
+        typeWord: 0,status: 0,isFavorite: false,createdTime: DateTime.now().toString());
     int isInsert= await vocabRepository.insert(vocab: vocab);
     return isInsert!=-1;
   }

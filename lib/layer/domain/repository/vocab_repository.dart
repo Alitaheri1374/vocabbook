@@ -18,6 +18,7 @@ class VocabRepository{
   ///insert vocab
   Future<int> insert({required VocabModel vocab})async{
     Map<String,dynamic> json=vocab.toJson();
+    print(json);
     return await dbServices.insert(tblName: tblName,values: json);
   }
   ///update vocab

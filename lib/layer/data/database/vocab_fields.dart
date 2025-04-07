@@ -3,8 +3,8 @@ class VocabFields{
   static const String tblPrimaryKey="id";
   static const String tblOrderKey="createdTime";
   static const Map<String,String>valuesField={
-    tblPrimaryKey:"INTEGER PRIMARY KEY AUTOINCREMEN",
-    "word":"'TEXT NOT NULL",
+    tblPrimaryKey:"INTEGER PRIMARY KEY AUTOINCREMENT",
+    "word":"TEXT NOT NULL",
     "meaning":"TEXT",
     "typeWord":"INTEGER",
     "status":"INTEGER",
@@ -15,7 +15,8 @@ class VocabFields{
 
   static  String crateTblQuery(){
     String queryField='';
-    valuesField.forEach((key, value) => "$queryField,$key $value",);
+    valuesField.forEach((key, value) =>
+    queryField="${queryField.isNotEmpty?"$queryField,":""}$key $value",);
     return "Create Table ${VocabFields.tblName} ($queryField)";
   }
 

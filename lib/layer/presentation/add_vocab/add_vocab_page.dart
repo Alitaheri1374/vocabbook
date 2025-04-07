@@ -48,7 +48,7 @@ class _AddVocabPageState extends State<AddVocabPage> {
   add()async{
     VocabServices vocabServices=locator<VocabServices>();
     String word=wordTxtController.text;
-    String? meaning=meaningTxtController.text.isNotEmpty?wordTxtController.text:null;
+    String? meaning=meaningTxtController.text.isNotEmpty?meaningTxtController.text:null;
     bool isInsert=await vocabServices.insert(word: word,meaning: meaning);
     if(isInsert && mounted){
       BlocProvider.of<VocabCubit>(context).fetchVocab();
