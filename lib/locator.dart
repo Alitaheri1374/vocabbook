@@ -7,7 +7,7 @@ import 'vocab_services.dart';
 
 final GetIt locator = GetIt.instance();
 
-void setUpLocator() {
+void setupLocator() {
   // ثبت سینگلتون‌ها
   locator.registerSingleton<VocabDatabase>(VocabDatabase());
   // ثبت با وابستگی

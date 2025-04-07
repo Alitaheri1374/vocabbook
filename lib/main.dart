@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:vocabbook/locator.dart';
 
 void main() {
+  // تنظیم locator قبل از اجرای برنامه
+  setupLocator();
   runApp(const MyApp());
 }
 
