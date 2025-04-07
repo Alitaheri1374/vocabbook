@@ -1,6 +1,6 @@
-import 'package:vocabbook/vocab_repository.dart';
+import 'package:vocabbook/layer/domain/repository/vocab_repository.dart';
 
-import 'vocab_model.dart';
+import '../entity/vocab_model.dart';
 
 class VocabServices{
   final VocabRepository vocabRepository;

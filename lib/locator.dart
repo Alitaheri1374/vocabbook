@@ -1,11 +1,11 @@
 import 'package:get_it/get_it.dart';
-import 'package:vocabbook/database/vocab_database.dart';
-import 'package:vocabbook/db_services.dart';
+import 'package:vocabbook/layer/data/db_services.dart';
 
-import 'vocab_repository.dart';
-import 'vocab_services.dart';
+import 'layer/data/database/vocab_database.dart';
+import 'layer/domain/repository/vocab_repository.dart';
+import 'layer/domain/use_case/vocab_services.dart';
 
-final GetIt locator = GetIt.instance();
+final GetIt locator = GetIt.instance;
 
 void setupLocator() {
   // ثبت سینگلتون‌ها

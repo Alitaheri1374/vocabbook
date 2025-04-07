@@ -2,7 +2,7 @@
 import 'dart:async';
 import "package:path/path.dart" show join;
 import 'package:sqflite/sqflite.dart';
-import 'package:vocabbook/database/vocab_fields.dart';
+import 'vocab_fields.dart';
 class VocabDatabase{
   static Database? _database;
 

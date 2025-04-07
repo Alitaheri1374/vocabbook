@@ -1,6 +1,6 @@
-import 'package:vocabbook/database/vocab_fields.dart';
-import 'package:vocabbook/db_services.dart';
-import 'package:vocabbook/vocab_model.dart';
+import 'package:vocabbook/layer/data/database/vocab_fields.dart';
+import 'package:vocabbook/layer/data/db_services.dart';
+import 'package:vocabbook/layer/domain/entity/vocab_model.dart';
 
 class VocabRepository{
   final DbServices dbServices;
