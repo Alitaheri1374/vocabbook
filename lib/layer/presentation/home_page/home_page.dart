@@ -4,6 +4,8 @@ import 'package:vocabbook/constants/app_const.dart';
 import 'package:vocabbook/layer/domain/bloc/vocab_cubit.dart';
 import 'package:vocabbook/layer/presentation/add_vocab/add_vocab_page.dart';
 
+import 'show_vocab_item.dart';
+
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
 
@@ -30,25 +32,7 @@ class HomePage extends StatelessWidget {
                           }, child: Text("Try Again")),):
 
                         state is VocabDataState?
-                        ListView.builder(
-                          itemCount: state.data.length,
-                          itemBuilder: (context, index) {
-                            return Card(
-                              child: Padding(
-                                padding: const EdgeInsets.all(8.0),
-                                child: Column(
-                                  mainAxisAlignment: MainAxisAlignment.start,
-                                  crossAxisAlignment: CrossAxisAlignment.start,
-                                  children: [
-                                    Text(state.data[index].word),
-                                    Align(
-                                        alignment: Alignment.bottomRight,
-                                        child: Text(state.data[index].meaning??''))
-                                  ],
-                                ),
-                              ),
-                            );
-                          },):
+                          ShowVocabItem():
                         Container(),
                       );
                     }
@@ -58,9 +42,14 @@ class HomePage extends StatelessWidget {
             Route route = MaterialPageRoute(
               builder: (context) => AddVocabPage(),);
             Navigator.push(context, route);
-          },),
+          },
+          child: Icon(Icons.add),
+          
+          ),
         );
       },
     );
   }
+
+
 }

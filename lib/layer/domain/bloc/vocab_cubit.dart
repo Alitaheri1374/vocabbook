@@ -13,6 +13,7 @@ class VocabCubit extends Cubit<VocabState> {
     emit(VocabLoadingState());
     VocabServices vocabServices=locator<VocabServices>();
     List<VocabModel> data=await vocabServices.get();
+    print(data[0].isFavorite);
     emit(VocabDataState(data: data));
   }
 

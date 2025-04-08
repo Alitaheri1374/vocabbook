@@ -13,15 +13,16 @@ class VocabServices{
 
   Future<bool> insert ({required String word,String? meaning})async{
     VocabModel vocab=VocabModel(word: word,meaning: meaning,
-        typeWord: 0,status: 0,isFavorite: false,createdTime: DateTime.now().toString());
+        typeWord: 0,status: VocabStatus.hard,isFavorite: false,createdTime: DateTime.now().toString());
     int isInsert= await vocabRepository.insert(vocab: vocab);
     return isInsert!=-1;
   }
 
   Future<bool>update({required  int? id,    required  String word,    required  String? meaning,    required  int? typeWord,
-    required  int? status,    required  bool? isFavorite,    required  String? createdTime,
+    required  VocabStatus? status,    required  bool? isFavorite,    required  String? createdTime,
   })async{
-    VocabModel vocab=VocabModel(id:id,word:word,meaning:meaning,typeWord:typeWord,status:status,isFavorite:isFavorite,createdTime:createdTime,updateTime: DateTime.now().toString());
+    VocabModel vocab=VocabModel(id:id,word:word,meaning:meaning,typeWord:typeWord,
+        status:status,isFavorite:isFavorite??false,createdTime:createdTime,updateTime: DateTime.now().toString());
     int isUpdate= await vocabRepository.update(vocab: vocab);
     return isUpdate!=-1;
   }

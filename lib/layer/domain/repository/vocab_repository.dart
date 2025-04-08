@@ -24,6 +24,7 @@ class VocabRepository{
   ///update vocab
   Future<int> update({required VocabModel vocab})async{
     Map<String,dynamic> json=vocab.toJson();
+    print(json);
     return await dbServices.update(tblName: tblName,values: json,where: '$tblPrimaryKey= ?',whereArgs: [vocab.id]);
   }
   ///delete vocab
