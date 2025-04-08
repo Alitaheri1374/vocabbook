@@ -1,17 +1,17 @@
 part 'vocab_status.dart';
 class VocabModel{
-  final int? id;
+  int? id;
   ///کلمه
-  final String word;
+  String word;
   ///معنی
-  final String? meaning;
+  String? meaning;
   ///نوع کلمه
-  final int? typeWord;
+  int? typeWord;
   ///وضعیت
-  final VocabStatus? status;
-  final bool isFavorite ;
-  final String? createdTime;
-  final String? updateTime;
+  VocabStatus? status;
+  bool isFavorite ;
+  String? createdTime;
+  String? updateTime;
 
   VocabModel({this.id,required this.word,this.meaning,this.typeWord,this.status,this.isFavorite=false,this.createdTime,this.updateTime});
 

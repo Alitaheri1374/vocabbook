@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:vocabbook/layer/domain/bloc/vocab_cubit.dart';
 import 'package:vocabbook/layer/domain/entity/vocab_model.dart';
-import 'package:vocabbook/layer/presentation/home_page/slide_menu_widget.dart';
+import 'package:vocabbook/layer/presentation/shared_component/slide_menu_widget.dart';
 
-import 'slide_menu_widget.dart';
+import '../shared_component/slide_menu_widget.dart';
 
 class ShowVocabItem extends StatefulWidget {
   const ShowVocabItem({super.key});

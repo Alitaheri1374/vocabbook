@@ -27,7 +27,7 @@ class VocabServices{
     return isUpdate!=-1;
   }
 
-  Future<bool>delete({required VocabModel vocab})async{
+  Future<bool> delete({required VocabModel vocab})async{
     int isDelete= await vocabRepository.delete(vocab: vocab);
     return isDelete!=-1;
   }

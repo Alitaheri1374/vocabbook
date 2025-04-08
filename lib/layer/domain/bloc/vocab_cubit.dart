@@ -13,8 +13,47 @@ class VocabCubit extends Cubit<VocabState> {
     emit(VocabLoadingState());
     VocabServices vocabServices=locator<VocabServices>();
     List<VocabModel> data=await vocabServices.get();
-    print(data[0].isFavorite);
     emit(VocabDataState(data: data));
   }
 
+  ///favorite item
+  void isFavoriteItem(VocabModel model)async{
+    bool isFavorite=!(model.isFavorite);
+    VocabServices vocabServices=locator<VocabServices>();
+    bool isUpdate=await vocabServices.update(id: model.id, word: model.word, meaning: model.meaning,
+        typeWord: model.typeWord, status: model.status,
+        isFavorite: isFavorite, createdTime: model.createdTime);
+    if(state is VocabDataState && isUpdate){
+      int indexActive=(state as VocabDataState).data.indexOf(model);
+      (state as VocabDataState).data[indexActive].isFavorite=isFavorite;
+      emit(VocabDataState(data: (state as VocabDataState).data));
+    }
+  }
+
+  ///favorite item
+  void isChangeStatusItem(VocabModel model,VocabStatus status)async{
+    bool isFavorite=!(model.isFavorite);
+    VocabServices vocabServices=locator<VocabServices>();
+    bool isUpdate=await vocabServices.update(id: model.id, word: model.word, meaning: model.meaning,
+        typeWord: model.typeWord, status: status,
+        isFavorite: isFavorite, createdTime: model.createdTime);
+    if(state is VocabDataState && isUpdate){
+      int indexActive=(state as VocabDataState).data.indexOf(model);
+      (state as VocabDataState).data[indexActive].status=status;
+      emit(VocabDataState(data: (state as VocabDataState).data));
+    }
+  }
+
+  ///Delete item
+  void isDeleteItem(VocabModel model)async{
+    VocabServices vocabServices=locator<VocabServices>();
+    bool isDelete=await vocabServices.delete(vocab: model);
+    if(state is VocabDataState && isDelete){
+      // int indexActive=(state as VocabDataState).data.indexWhere((element) => element.id==model.id,);
+      // (state as VocabDataState).data.removeAt(indexActive);
+      (state as VocabDataState).data.remove(model);
+      emit(VocabDataState(data: (state as VocabDataState).data));
+    }
+  }
 }
+

@@ -3,7 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:vocabbook/layer/domain/bloc/vocab_cubit.dart';
 import 'package:vocabbook/layer/domain/entity/vocab_model.dart';
 import 'package:vocabbook/layer/domain/use_case/vocab_services.dart';
-import 'package:vocabbook/layer/presentation/home_page/slide_menu_widget.dart';
+import 'package:vocabbook/layer/presentation/shared_component/slide_menu_widget.dart';
 import 'package:vocabbook/locator.dart';
 
 class ShowVocabItem extends StatefulWidget {
@@ -42,7 +42,9 @@ class _ShowVocabItemState extends State<ShowVocabItem> {
                           child: IconButton(
                             color: Colors.white,
                             icon: const Icon(Icons.delete),
-                            onPressed: () {},
+                            onPressed: () {
+                              isDeleteTask(state.data[index]);
+                            },
                           ),
                         ),
                       ],
@@ -84,12 +86,36 @@ class _ShowVocabItemState extends State<ShowVocabItem> {
                                         Expanded(child: Text(state.data[index].word)),
                                         IconButton(onPressed: () {
                                           isFavoriteTask(state.data[index]);
-                                        }, icon: Icon(state.data[index].isFavorite?Icons.favorite:Icons.favorite_border))
+                                        },
+                                        color: state.data[index].isFavorite?Colors.red:Colors.grey,
+                                        icon: Icon(
+                                            state.data[index].isFavorite?
+                                            Icons.favorite:
+                                            Icons.favorite_border,
+                                        ))
                                       ],
                                     ),
                                     Align(
                                         alignment: Alignment.bottomRight,
-                                        child: Text(state.data[index].meaning??''))
+                                        child: Text(state.data[index].meaning??'')
+                                    ),
+                                    Row(
+                                      spacing: 5,
+                                      children: VocabStatus.values.map((e) =>
+                                      e==state.data[index].status?
+                                          Container():
+                                      FilterChip(
+                                        color: WidgetStatePropertyAll(
+                                            e==VocabStatus.hard?Colors.red:
+                                            e==VocabStatus.normal?Colors.yellow:
+                                            e==VocabStatus.easy?Colors.green:
+                                            Colors.grey
+                                        ),
+                                        label: Text(e.name),
+                                        onSelected: (value) =>
+                                            isChangeStatusTask(state.data[index], e),),
+                                      ).toList(),
+                                    )
                                   ],
                                 ),
                               ),
@@ -112,12 +138,18 @@ class _ShowVocabItemState extends State<ShowVocabItem> {
     );
   }
 
+  ///isFavorite
   isFavoriteTask(VocabModel model)async{
-    VocabServices vocabServices=locator<VocabServices>();
-    bool isUpdate=await vocabServices.update(id: model.id, word: model.word, meaning: model.meaning,
-        typeWord: model.typeWord, status: model.status, isFavorite: !(model.isFavorite), createdTime: model.createdTime);
-    if(isUpdate && mounted){
-      BlocProvider.of<VocabCubit>(context).fetchVocab();
-    }
+      BlocProvider.of<VocabCubit>(context).isFavoriteItem(model);
+  }
+
+  ///isFavorite
+  isChangeStatusTask(VocabModel model,VocabStatus status)async{
+      BlocProvider.of<VocabCubit>(context).isChangeStatusItem(model,status);
+  }
+
+  ///delete
+  isDeleteTask(VocabModel model)async{
+      BlocProvider.of<VocabCubit>(context).isDeleteItem(model);
   }
 }
