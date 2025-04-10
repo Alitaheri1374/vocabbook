@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:vocabbook/constants/app_const.dart';
-import 'package:vocabbook/layer/domain/bloc/vocab_cubit.dart';
+import 'package:vocabbook/layer/domain/bloc/vocab/vocab_cubit.dart';
 import 'package:vocabbook/layer/domain/entity/vocab_model.dart';
 import 'package:vocabbook/layer/domain/use_case/vocab_services.dart';
 import 'package:vocabbook/locator.dart';
@@ -15,12 +15,16 @@ class AddVocabPage extends StatefulWidget {
 }
 
 class _AddVocabPageState extends State<AddVocabPage> {
+  ///word Controller
   final TextEditingController wordTxtController=TextEditingController();
+  ///meaning Controller
   final TextEditingController meaningTxtController=TextEditingController();
 
+  late VocabStatus vocabStatus;
   @override
   void initState() {
     super.initState();
+    vocabStatus=widget.vocabModel?.status??VocabStatus.hard;
     if(widget.vocabModel!=null){
       initField();
     }
@@ -39,6 +43,7 @@ class _AddVocabPageState extends State<AddVocabPage> {
       body: SafeArea(
           child: Padding(padding: EdgeInsets.all(10),
             child: Column(
+              spacing: 10,
               children: [
                 TextField(
                   controller: wordTxtController,
@@ -52,11 +57,38 @@ class _AddVocabPageState extends State<AddVocabPage> {
                     label: Text("meaning")
                   ),
                 ),
+                Row(
+                  spacing: 5,
+                  children: VocabStatus.values.map((e) =>
+                  FilterChip(
+                    color: WidgetStatePropertyAll(
+                        e==VocabStatus.hard?Colors.red:
+                        e==VocabStatus.normal?Colors.yellow:
+                        e==VocabStatus.easy?Colors.green:
+                        Colors.grey
+                    ),
+                    label:
+                    e==vocabStatus?
+                    Row(
+                      children: [
+                        Icon(Icons.check),
+                        Text(e.name),
+                      ],
+                    ):
+                    Text(e.name),
+
+                    onSelected: (value){
+                      setState(() {
+                        vocabStatus=e;
+                      });
+                    },),
+                  ).toList(),
+                ),
                 Spacer(),
                 ElevatedButton(onPressed: (){
                   task();
                 },
-                    child: Text("add"))
+                    child: Text(widget.vocabModel!=null?"save":"add"))
               ],
             ),
           )),
@@ -76,7 +108,7 @@ class _AddVocabPageState extends State<AddVocabPage> {
     VocabServices vocabServices=locator<VocabServices>();
     String word=wordTxtController.text;
     String? meaning=meaningTxtController.text.isNotEmpty?meaningTxtController.text:null;
-    bool isInsert=await vocabServices.insert(word: word,meaning: meaning);
+    bool isInsert=await vocabServices.insert(word: word,meaning: meaning,status:vocabStatus);
     if(isInsert && mounted){
       changeSuccess();
     }
@@ -88,8 +120,12 @@ class _AddVocabPageState extends State<AddVocabPage> {
     VocabServices vocabServices=locator<VocabServices>();
     String word=wordTxtController.text;
     String? meaning=meaningTxtController.text.isNotEmpty?meaningTxtController.text:null;
-    bool isUpdate=await vocabServices.update(id:widget.vocabModel!.id,word: word,meaning: meaning,typeWord: widget.vocabModel?.typeWord,
-      status: widget.vocabModel?.status,isFavorite: widget.vocabModel?.isFavorite,createdTime: widget.vocabModel?.createdTime
+    bool isUpdate=await vocabServices.update(
+        id:widget.vocabModel!.id,
+        word: word,meaning: meaning,
+        status: vocabStatus,
+        typeWord: widget.vocabModel?.typeWord,
+        isFavorite: widget.vocabModel?.isFavorite,createdTime: widget.vocabModel?.createdTime
     );
     if(isUpdate && mounted){
       changeSuccess();

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:vocabbook/layer/domain/bloc/vocab_cubit.dart';
+import 'package:vocabbook/layer/domain/bloc/vocab/vocab_cubit.dart';
 import 'package:vocabbook/layer/domain/entity/vocab_model.dart';
 import 'package:vocabbook/layer/presentation/shared_component/slide_menu_widget.dart';
 

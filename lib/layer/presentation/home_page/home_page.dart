@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:vocabbook/constants/app_const.dart';
-import 'package:vocabbook/layer/domain/bloc/vocab_cubit.dart';
+import 'package:vocabbook/layer/domain/bloc/vocab/vocab_cubit.dart';
 import 'package:vocabbook/layer/presentation/add_vocab/add_vocab_page.dart';
+import 'package:vocabbook/layer/presentation/home_page/body.dart';
 
-import 'show_vocab_item.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
@@ -32,7 +32,7 @@ class HomePage extends StatelessWidget {
                           }, child: Text("Try Again")),):
 
                         state is VocabDataState?
-                          ShowVocabItem():
+                          HomeBody():
                         Container(),
                       );
                     }
