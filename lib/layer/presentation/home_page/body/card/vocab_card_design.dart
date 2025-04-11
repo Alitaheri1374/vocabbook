@@ -32,9 +32,12 @@ class _VocabDesignCardState extends BodyController<VocabDesignCard> {
                     child: DecoratedBox(
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(8),
-                        gradient: LinearGradient(colors: getGradient(state.data[index].status!),
-                          begin: Alignment.topLeft,
-                          end: Alignment.bottomRight,
+                        // gradient: LinearGradient(colors: getGradient(state.data[index].status!),
+                        gradient: LinearGradient(colors:
+                         getGradientBaseStatus(state.data[index].status!,index),
+                        // gradient: LinearGradient(colors: getGradientBaseIndex(index),
+                          begin: Alignment.bottomRight,
+                          end: Alignment.topLeft,
                         ),
                         boxShadow: [
                           BoxShadow(color: Colors.grey,offset: Offset(1, 4))
@@ -43,40 +46,49 @@ class _VocabDesignCardState extends BodyController<VocabDesignCard> {
                       child: Padding(
                         padding: const EdgeInsets.symmetric(horizontal: 8.0,vertical: 2.0),
                         child: Column(
+                          spacing: 5,
                           mainAxisAlignment: MainAxisAlignment.start,
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Row(
-                              children: [
-                                Expanded(child: Text(state.data[index].word)),
-                                IconButton(onPressed: () {
-                                  isFavoriteTask(state.data[index]);
-                                },
-                                    color: state.data[index].isFavorite?Colors.red:Colors.grey,
-                                    icon: Icon(
-                                      state.data[index].isFavorite?
-                                      Icons.favorite:
-                                      Icons.favorite_border,
-                                    ))
-                              ],
+                            Align(
+                              alignment: Alignment.centerRight,
+                              child: IconButton(
+                                  onPressed: () {
+                                    isFavoriteTask(state.data[index]);
+                                  },
+                                  color: state.data[index].isFavorite?Colors.red:Colors.grey,
+                                  icon: Icon(
+                                    state.data[index].isFavorite?
+                                    Icons.favorite:
+                                    Icons.favorite_border,
+                                  )),
+                            ),
+                            Text(state.data[index].word,
+                              style: Theme.of(context).textTheme.headlineLarge,
                             ),
                             Align(
                                 alignment: Alignment.bottomRight,
-                                child: Text(state.data[index].meaning??'')
+                                child: Text(state.data[index].meaning??'',
+                                  style: Theme.of(context).textTheme.headlineMedium,
+                                )
                             ),
+                            Spacer(),
                             Row(
                               spacing: 5,
                               children: VocabStatus.values.map((e) =>
-                              e==state.data[index].status?
-                              Container():
                               FilterChip(
                                 color: WidgetStatePropertyAll(
-                                    e==VocabStatus.hard?Colors.red:
-                                    e==VocabStatus.normal?Colors.yellow:
-                                    e==VocabStatus.easy?Colors.green:
-                                    Colors.grey
+                                  getColorBaseStatusItem(e),),
+                                label:
+                                Row(
+                                  mainAxisSize: MainAxisSize.min,
+                                  children: [
+                                    if(e==state.data[index].status)
+                                      Icon(Icons.check),
+                                    Text(e.name,style: TextStyle(color:
+                                    e==state.data[index].status?Colors.white:Colors.black),),
+                                  ],
                                 ),
-                                label: Text(e.name),
                                 onSelected: (value) =>
                                     isChangeStatusTask(state.data[index], e),),
                               ).toList(),

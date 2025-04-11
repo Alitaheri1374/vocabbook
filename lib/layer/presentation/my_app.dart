@@ -10,8 +10,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: AppConst.appTitle,
       debugShowCheckedModeBanner: false,
-      theme: ThemeData.dark(
-        useMaterial3: true
+      theme: ThemeData.dark().copyWith(
+        primaryColor: Colors.purple
       ),
       home: HomePage(),
     );

@@ -68,14 +68,15 @@ class _AddVocabPageState extends State<AddVocabPage> {
                         Colors.grey
                     ),
                     label:
-                    e==vocabStatus?
                     Row(
+                      mainAxisSize: MainAxisSize.min,
                       children: [
+                        if(e==vocabStatus)
                         Icon(Icons.check),
-                        Text(e.name),
+                        Text(e.name,style: TextStyle(color:
+                        e==vocabStatus?Colors.white:Colors.black)),
                       ],
-                    ):
-                    Text(e.name),
+                    ),
 
                     onSelected: (value){
                       setState(() {
