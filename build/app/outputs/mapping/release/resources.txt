@@ -1,0 +1,2733 @@
+Marking string:androidx_startup:2131427328 reachable: referenced from G:\project\flutter\vocabbook\build\app\intermediates\dex\release\minifyReleaseWithR8\classes.dex
+android.content.res.Resources#getIdentifier present: true
+Web content present: false
+Referenced Strings:
+cancel
+http://
+DISMISS
+fifty
+Iptc4xmpExt:LocationCreatedSublocation
+app_flutter
+xmpDM:shotName
+tika:link
+file:mime
+deleteDatabase
+java.lang.Integer
+miguelruivo.flutter.plugins.filepicker
+STATIC
+SDA
+photoshop:CaptionWriter
+protected
+_comment
+CLIENT_UNAVAILABLE_WITHIN_MS
+xml
+xmp
+ten
+GeneratedPluginsRegister
+java.lang.CharSequence
+$
+machine:
+Stereo
+click
+0
+tiff:Software
+1
+2
+3
+4
+size
+left
+5
+reserved
+kotlinx.coroutines.DefaultExecutor
+6
+7
+WMO
+8
+Southernmost_Latitude
+fs:modified
+9
+eleven
+SEQ
+registerWith
+SystemSoundType.alert
+A
+B
+S_RESUMING_BY_RCV
+xmpRights:Owner
+C
+D
+Iptc4xmpExt:LocationCreatedWorldRegion
+E
+F
+G
+xmpDM:tapeName
+result
+xmpDM:videoAlphaMode
+database:column_name
+BDT
+SystemUiMode.immersiveSticky
+flutter/platform_views
+jpeg
+Z
+TextCapitalization.words
+EXTRA_BENCHMARK_OPERATION
+_
+a
+b
+address
+c
+SUCCESS
+destroy_engine_with_activity
+h
+i
+truncated
+k
+RESUMING_BY_EB
+kotlin.String
+l
+sidecarDeviceState
+o
+machine:machineType
+p
+straight
+UNSPECIFIED
+s
+s1xty
+exif:IsoSpeedRatings
+SUSPEND
+java.lang.Module
+v
+w
+x
+isregex
+SH4
+SystemUiMode.edgeToEdge
+xmpDM:loop
+SH3
+SH5
+acknowledgement
+ATIS
+stdout
+POST
+f0ur
+displayFeature.rect
+mimeType
+Iptc4xmpCore:CiUrlWork
+empty
+isTagEnabled
+rtf_meta:emb_class
+institution
+emailAddress
+startIndex
+bufferEndSegment
+Iptc4xmpExt:IptcLastEdited
+6/8
+area
+xmpDM:album
+check
+list
+LONG_PRESS
+flutter/keyevent
+Iptc4xmpCore:CiTelWork
+databaseExists
+AppLifecycleState.
+cp:revision
+SystemChrome.setSystemUIOverlayStyle
+addWindowLayoutInfoListener
+enable_state_restoration
+COMPLETING_WAITING_CHILDREN
+RESULT_BASELINE_PROFILE_NOT_FOUND
+_invoked
+locale
+COMPOSITE
+os.version
+RESULT_DELETE_SKIP_FILE_SUCCESS
+SDK_INT
+KeyEmbedderResponder
+iterator.baseContext
+provider
+kotlinx.coroutines.main.delay
+_delayed
+Iptc4xmpExt:AOSource
+Iptc4xmpExt:DigitalSourceType
+MOVE_CURSOR_BACKWARD_BY_CHARACTER
+WSA
+n1nety
+kotlin.collections.List
+xmp:Advisory
+MOVE_CURSOR_FORWARD_BY_CHARACTER
+args
+plus:LicensorCity
+http://www.w3.org/1999/xhtml
+GlobalPlatform
+WSL
+resizeUpLeft
+pdf
+TextInputType.emailAddress
+ACTION_ARGUMENT_SET_TEXT_CHARSEQUENCE
+androidThreadCount
+FlutterActivity
+java.lang.Float
+Dispatchers.IO
+focus
+Iptc4xmpExt:LocationCreatedProvinceState
+PAUSED
+androidx.profileinstaller.action.SAVE...
+android.os.Build$VERSION
+executor
+androidx.window.extensions.WindowExte...
+xmpDM:engineer
+write
+flow
+onStop
+LockedForAnnotations
+byte
+xmp:About
+STYLE
+access_permission:extract_for_accessi...
+pst:folderPath
+pdf:actionTriggers
+plus:PropertyReleaseStatus
+creditCardNumber
+resizeUp
+RATIONAL
+cmd
+onPostResume
+S370
+hundred
+wait
+FlutterActivityAndFragmentDelegate
+birthDateYear
+save
+dc:creator
+IGNORE
+%s.%sParcelizer
+pdfvt:modified
+io.flutter.embedding.android.EnableVu...
+top
+java.lang.String
+resizeDown
+TextInput.setClient
+xmp:MetadataDate
+inTransaction
+OGC
+OGF
+S390
+framework
+2.0
+NIST
+thousand
+col
+New
+stringignorecase
+th1rteen
+f0urty
+xmpMM:History:Action
+detectors
+OHICC
+table_id
+ReflectionGuard
+android.widget.CheckBox
+html_meta:scriptSrc
+2/4
+HapticFeedback.vibrate
+repeatCount
+void
+flutter/restoration
+plus:ModelReleaseStatus
+onUserLeaveHint
+_cur
+plus:MinorModelAgeDisclosure
+REAL
+cmd_ln
+basic
+kotlin.Throwable
+BODY
+parkedWorkersStack
+tiff
+systemNavigationBarColor
+displayCutout
+PlatformPlugin
+ACCSQ
+pdf:docinfo:keywords
+custom:
+kotlin.Annotation
+SunOS
+lang
+direction
+dc:subject
+BITMAP
+crs
+0ne
+rows
+Array
+org.apache.tika.fork.ForkServer
+RMETA
+Major
+UNKNOWN
+fileName
+xmpDM:discNumber
+accessibility
+tw0
+metadataFilter
+password
+kotlinx.coroutines.scheduler.keep.ali...
+NO_TARGET
+BSI
+pdf:docinfo:
+xmpDM:timeSignature
+state
+CompanionObject
+element
+CableLabs
+little32
+OMA
+plus:LicensorStreetAddress
+frameset
+zoomIn
+OMG
+png
+.class
+input
+CRLF
+thirty
+Tru64
+CALL
+renderer
+getStateMethod
+xmpDM:videoAlphaUnityIsTransparent
+two
+http://iptc.org/std/Iptc4xmpCore/1.0/...
+CUSTOM_ACTION
+pdfuaid:part
+IFOAM
+cached_engine_id
+setRemoveOnCancelPolicy
+receive
+pdfx:conformance
+xmpMM:
+forbidden
+windowToken
+onTrimMemory
+OOM
+getSourceNodeId
+little16
+txt
+pdf:PDFVersion
+lib
+flutter/backgesture
+Iptc4xmpExt:RegistryId
+source
+removeListenerMethod
+SMPTE
+pdf:actionTrigger
+java.lang.Short
+PARSE_SUCCESS
+android.widget.Button
+os.name
+_closeCause
+cp:version
+addressCity
+INTEGER
+pre
+meta:author
+batch
+resourceName
+e1ghty
+pdfaid:part
+DIAGNOSTIC_PROFILE_IS_COMPRESSED
+phoneNumber
+composingBase
+xmpDM:pullDown
+INTERRUPTED_RCV
+ATTACHMENT
+onRequestPermissionsResult
+platformViewId
+yyyyMMdd_HHmmss
+Iptc4xmpCore:CiAdrCity
+http://ns.adobe.com/xmp/identifier/qu...
+_isTerminated
+video
+SEALED
+xmlns
+CREATED
+android.intent.category.OPENABLE
+outlinks
+pipes
+pdfaid:conformance
+dc:language
+pdf:producer
+plus:ImageSupplierName
+tiff:XResolution
+yes
+exif:DateTimeOriginal
+EXTRA_SKIP_FILE_OPERATION
+photoshop:State
+http://ns.adobe.com/xap/1.0/t/pg/
+_windowInsetsCompat
+ICAO
+UNSPECIFIED_CRASH
+windows
+access_permission:extract_content
+pair
+getPosture
+getWindowExtensions
+PASTE
+Alpha
+short
+OTA
+rtf_pict:
+COMPLETING_RETRY
+n/a
+application/
+plus:ImageSupplierID
+TextInput.clearClient
+defaultValue
+SCROLL_RIGHT
+ninety
+android.widget.ImageView
+android.widget.RadioButton
+textCapitalization
+CODENAME
+three
+tiff:Make
+put
+TextInputType.text
+FAILED
+POISONED
+SCROLL_LEFT
+options
+STATIC_FULL
+HapticFeedbackType.heavyImpact
+flutter/platform
+identifier
+closeHandler
+priority
+Iptc4xmpExt:LocationCreatedCountryName
+removeWindowLayoutInfoListener
+BUFFERED
+$callback
+light
+pdf:eofOffsets
+.apk
+CHANNEL_CLOSED
+.jar
+e1ghteen
+audio/
+EMPTY_OUTPUT
+quot
+FreeBSD
+plus:LicensorPostalCode
+java.lang.Throwable
+/data/misc/profiles/cur/0/
+WWSSW_24p
+log
+translator
+xmp:
+SystemSound.play
+ImageReaderSurfaceProducer
+SADCSTAN
+photoshop:DateCreated
+pdf:overallPercentageUnmappedUnicodeC...
+android.widget.SeekBar
+android.intent.action.RUN
+INITIALIZED
+android.support.v13.view.inputmethod....
+KeyEventChannel
+pdfaid:
+producerIndex
+flutter/settings
+plus:LicensorEmail
+addressLocality
+minShouldMatch
+plus:ImageSupplierId
+ETSI
+photoshop:TransmissionReference
+GGF
+pdf:charsPerPage
+3GPP
+DeviceOrientation.landscapeLeft
+sRGB
+Duotone
+.immediate
+TextInputAction.unspecified
+char
+PARSE_EXCEPTION_EMIT
+tiff:ImageWidth
+None
+CONTACT
+TAP
+errorCode
+listen
+RESULT_INSTALL_SUCCESS
+wm.maximumWindowMetrics.bounds
+pdf:encrypted
+TextInputAction.commitContent
+inputType
+eighty
+CLOSE_HANDLER_INVOKED
+Iptc4xmpExt:RegOrgId
+CONCATENATE
+java.lang.Cloneable
+http://www.oracle.com/xml/jaxp/proper...
+isSupported
+history
+GeneratedPluginRegistrant
+io.flutter.embedding.android.EnableIm...
+Iptc4xmpExt:AOSourceInvNo
+MINIMAL
+setLocale
+Clipboard.setData
+TextInputType.phone
+TextInput.sendAppPrivateCommand
+CLOSED
+CROSQ
+FETCHER_INITIALIZATION_EXCEPTION
+androidSetLocale
+http://ns.adobe.com/exif/1.0/aux/
+consumerIndex
+thirteen
+pdf:docinfo:custom:
+_removedRef
+plus:LicensorName
+sixteen
+alias
+CENELEC
+http://ns.adobe.com/xmp/1.0/DynamicMe...
+kotlin.String.Companion
+debug
+photoshop:Headline
+STRUCTURE
+plus:ModelReleaseID
+clear
+jClass
+TextInput.show
+AUTOSAR
+wordperfect:Encrypted
+Easternmost_Longitude
+XML
+systemNavigationBarDividerColor
+CLIP_PATH
+suggestions
+Minor
+classes.dex
+ALTERNATE_FORMAT_CHUNK
+pdf:docinfo:title
+resizeColumn
+plugins
+mime
+kotlin.Cloneable
+PlatformViewsController
+path
+xmpDM:videoPixelDepth
+telnet
+pdf:containsNonEmbeddedFont
+kotlin.reflect.jvm.internal.Reflectio...
+xmpMM:History:SoftwareAgent
+access_permission:
+FOLD
+databases
+cleanedAndPointers
+addObserver
+MEDIUM
+nineteen
+ON_ANY
+android.intent.extra.ALLOW_MULTIPLE
+xmp:Identifier
+xmpMM:DerivedFrom:DocumentID
+CEN
+guava.concurrent.generate_cancellatio...
+Iptc4xmpExt:PersonInImage
+SystemNavigator.setFrameworkHandlesBack
+wordperfect:MajorVersion
+ON_PAUSE
+route
+domain
+viewType
+7.1
+editingValue
+pdf:annotationTypes
+getPlatformVersion
+xmpRights:UsageTerms
+CFA
+pdf:containsDamagedFont
+xmpDM:trackNumber
+SidecarCompat
+video/
+DROP_LATEST
+_exceptionsHolder
+transparent
+COMPLETED
+logLevel
+f1ve
+background_mode
+EMIT_SUCCESS
+FETCHER_NOT_FOUND
+defaultDisplay
+DISCARD_ALL
+xmpDM:fileDataRate
+7/4
+RESULT_DESIRED_FORMAT_UNSUPPORTED
+clearFocus
+database:
+setEntityExpansionLimit
+xmpTPg:NPages
+TIA
+FONT
+http://javax.xml.XMLConstants/propert...
+hintText
+LOCALE
+personNamePrefix
+SIMPLE
+application/zip
+toString
+PAL
+access_permission:can_modify
+XPATH
+http://schemas.openxmlformats.org/wor...
+feature.rect
+missingDelimiterValue
+Iptc4xmpCore:IntellectualGenre
+listener
+dir
+wordperfect:FileSize
+8Int
+div
+kotlin.Boolean
+_queue
+android.intent.action.OPEN_DOCUMENT
+setSidecarCallback
+DMTF
+info
+ReadOnlyRecommended
+Solaris
+plus:ImageSupplier
+XSF
+CURRENT
+xmpDM:compilation
+TextInputType.name
+Linux
+recoveredInTransaction
+f1fty
+navigation_bar_height
+java.lang.annotation.Annotation
+Greyscale
+pdfxid:version
+FlutterImageView
+CISPR
+pdf:xmpLocation
+GS1
+TERMINATED
+flutter/navigation
+Localization.getStringResource
+dcterms:created
+title
+database:column_count
+kotlin.collections.Map
+PDF
+cached_engine_group_id
+ProcessText.queryTextActions
+hashCode
+updateBackGestureProgress
+ProfileInstaller
+java.lang.Boolean
+ignore
+classSimpleName
+Big
+xmpDM:altTapeName
+DeviceOrientation.landscapeRight
+custom
+IconCompat
+length
+org.apache.tika.
+keydown
+pdf:docinfo:trapped
+access_permission:can_print
+activateSystemCursor
+existing
+flutter/accessibility
+Iptc4xmpCore
+resize
+TextEditingDelta
+DROP_OLDEST
+f0urteen
+lastScheduledTask
+tiff:ResolutionUnit
+birthdayMonth
+com.tekartik.sqflite.wal_enabled
+autocorrect
+http://ns.adobe.com/xap/1.0/rights/
+rtf_meta:emb_app_version
+HapticFeedbackType.selectionClick
+metadataListFilters
+dc:title
+endIndex
+plus:LicensorCountry
+action
+text
+READY
+imagereader:NumImages
+TextInput.finishAutofillContext
+WWWSS_24p
+primary.prof
+plus:CopyrightOwner
+io.flutter.embedding.android.EnableOp...
+http://ns.adobe.com/xap/1.0/
+signed
+UNSUPPORTED
+FlutterView
+xmpDM:instrument
+getResId
+Iptc4xmpExt:AOCreator
+MOVE_CURSOR_FORWARD_BY_WORD
+TIMEOUT
+fullStreetAddress
+FilePicker
+encodingDetector
+arch_disk_io_
+http://ns.useplus.org/ldf/xmp/1.0/
+glob
+skip
+eight
+file
+RoyalCert
+3/4
+map
+twenty
+android.intent.extra.MIME_TYPES
+xmp:NickName
+uri
+url
+TextInputAction.done
+tiff:Model
+photoshop:ColorMode
+queryCursorNext
+xmpMM:DerivedFrom:InstanceID
+pdfx:version
+onSaveInstanceState
+io.flutter.EntrypointUri
+VIRTUAL_DISPLAY_PLATFORM_VIEW
+FIRST_WINS
+xmpDM:duration
+resizeUpLeftDownRight
+KeyboardManager
+http://ns.adobe.com/pdf/1.3/
+$errorCode
+RESUMED
+HIGH
+plus:ImageCreatorName
+main
+commitBackGesture
+ReadOnlyEnforced
+EMIT_SUCCESS_PARSE_EXCEPTION
+initializableProblemHandler
+machine:architectureBits
+xmpMM:OriginalDocumentID
+birthDateMonth
+photoshop:Source
+THUMBNAIL
+interrupted
+EXISTING
+ListenableEditingState
+separator
+personMiddleName
+Progressive
+SCRIPT
+Iptc4xmpExt:LocationShownSublocation
+renderers
+noscript
+xmp:Label
+true
+dispose
+phoneNational
+emitter
+docId
+plus:LicensorExtendedAddress
+statusBarIconBrightness
+host32
+sendersAndCloseStatus
+asyncTraceEnd
+Iptc4xmpCore:CountryCode
+RENDERING
+getWindowLayoutComponentMethod
+transform
+wordperfect:FileType
+STARTED
+epub:rendition:layout
+standard_references
+machine:platform
+Iptc4xmpCore:Location
+loadErrorHandler
+machine:endian
+unknown_activity
+DONE_RCV
+Clipboard.getData
+TextInputType.twitter
+Iptc4xmpExt:MaxAvailWidth
+Trace
+androidx.core.view.inputmethod.Editor...
+IPTC
+bytes
+Closed
+Completed
+meta:keyword
+callback
+RESUME_TOKEN
+photoshop:Country
+properties
+tika_pg:
+ProcessText.processTextAction
+00
+host16
+about
+PNG
+io.flutter.embedding.android.DisableM...
+TextInput.hide
+.bin
+telephoneNumberNational
+character
+xmpDM:videoPixelAspectRatio
+Unknown
+java.lang.Long
+pdf:hasCollection
+metaState
+TRACE_TAG_APP
+s1x
+10
+height
+11
+xmpDM:genre
+12
+slf4j.provider
+13
+pdfvt:version
+14
+CUT
+15
+org.apache.xerces.util.SecurityManager
+16
+android.intent.action.OPEN_DOCUMENT_TREE
+17
+18
+$this$require
+19
+Iptc4xmpExt:DigitalSourcefileType
+execute
+transactionId
+org/slf4j/impl/StaticLoggerBinder.class
+s1xteen
+text/
+input_method
+regex
+oldText
+Iptc4xmpCore:CreatorContactInfo
+meta
+Clipboard.hasStrings
+Iptc4xmpCore:CiAdrPcode
+20
+21
+22
+23
+rtf_meta:thumbnail
+24
+PPC
+25
+26
+27
+M32R
+28
+kotlin.Function
+29
+n1ne
+0x
+EMIT_EXCEPTION
+xmp:Rating
+long
+startBackGesture
+kotlinx.coroutines.channels.defaultBu...
+CLOSED_CHOICE
+30
+http://ns.adobe.com/xap/1.0/mm/
+31
+32
+android.type.verbatim
+33
+rtf_meta:emb_item
+34
+35
+36
+37
+38
+39
+wordperfect:MinorVersion
+IMAGE_
+autoDetectParserConfig
+signature:filter
+androidx.core.view.inputmethod.Editor...
+android.intent.action.CREATE_DOCUMENT
+systemNavigationBarIconBrightness
+contextMenu
+withData
+javax.xml.stream.isNamespaceAware
+progress
+autofill
+40
+TextCapitalization.none
+41
+android.widget.EditText
+ASHRAE
+42
+43
+44
+NO_DECISION
+45
+Scribe.startStylusHandwriting
+46
+47
+48
+49
+postalCode
+seven
+TIKA_streamstore_
+TextInput.setEditingState
+xmpidq:
+androidx.profileinstaller.action.INST...
+ON_START
+50
+51
+birthDateFull
+five
+52
+53
+54
+kotlinx.coroutines.io.parallelism
+55
+56
+57
+58
+59
+tiff:SamplesPerPixel
+unicodeLE
+collection
+rdf:RDF
+BOOLEAN
+android.view.DisplayInfo
+big16
+profileInstalled
+NO_EMITTER_FOUND
+plus:PropertyReleaseID
+60
+61
+_next
+62
+pdf:docinfo:producer
+debugMode
+63
+64
+65
+http://javax.xml.XMLConstants/propert...
+66
+67
+68
+69
+Iptc4xmpCore:CiAdrExtadr
+geo:lat
+photoshop:SupplementalCategories
+update
+big32
+downloads
+textservices
+70
+71
+72
+73
+74
+75
+76
+mask
+Iptc4xmpExt:LocationShownCountryCode
+summary
+77
+78
+79
+OS/2
+creditCardExpirationYear
+INTERRUPTED_EXCEPTION
+SystemUiMode.leanBack
+STICKY_NOTE
+Neither
+Scribe.isFeatureAvailable
+80
+81
+java.lang.Object
+82
+TextInputType.webSearch
+comment
+83
+84
+SystemChrome.setSystemUIChangeListener
+85
+86
+base
+Location
+87
+dexopt/baseline.profm
+dc:source
+no_activity
+88
+kotlinx.coroutines.bufferedChannel.se...
+89
+epub:
+extendedPostalCode
+Conventions
+TextInput.setPlatformViewClient
+prefix
+binding
+zoomOut
+xmpRights:Certificate
+state1
+access_permission:fill_in_form
+xmpMM:History:When
+delimiter
+90
+APPOINTMENT
+91
+92
+93
+urn:oasis:names:tc:opendocument:xmlns...
+94
+NONE
+95
+tiff:BitsPerSample
+96
+97
+98
+99
+hints
+keyup
+java.util.Set
+onWindowLayoutChangeListenerAdded
+xmpDM:audioCompressor
+HGI
+LOW
+EKOenergy
+brieflyShowPassword
+newDeviceState
+DELETE_SKIP_FILE
+OPEN_CHOICE
+Description
+gender
+access_permission:modify_annotations
+resizeRow
+Big5
+xmpDM:shotLocation
+usesVirtualDisplay
+AIIM
+wordperfect:LowestVersion
+NO_THREAD_ELEMENTS
+INTERRUPTED_SEND
+fulltext
+pipesIterator
+singleInstance
+FLAT
+getDisplayInfo
+namespaceURI
+event
+resizeDownRight
+newLayout
+DARK
+COPY
+PENDING
+androidx.profileinstaller.action.BENC...
+outState
+VERSION
+compressionQuality
+Spatial_Coverage
+java.lang.Comparable
+Iptc4xmpExt:LocationCreatedCountryCode
+android.widget.Switch
+resizeUpRightDownLeft
+float
+postalAddressExtended
+java.lang.Enum
+enableIMEPersonalizedLearning
+familyName
+INLINE
+html
+LSB
+from
+DETACHED
+TextInputType.datetime
+TextInputAction.go
+blockquote
+offset
+SystemChrome.setApplicationSwitcherDe...
+xmpidq:Scheme
+keyCode
+DATE
+WEBP
+DATA
+UTF8
+pdf:actionTypes
+flutter/localization
+didGainFocus
+pst:
+service.ranking
+img
+UNIXProcess
+Brightness.light
+tiff:ImageLength
+error
+exif:Flash
+getBoundsMethod
+kotlin.Byte
+PROPER_NAME
+Iptc4xmpCore:Scene
+bufferEnd
+operations
+array
+NOTE
+postfix
+outputStream
+com.ibm.icu.charset.CharsetICU
+value
+bigint
+12/8
+REUSABLE_CLAIMED
+opaque
+0x%08x
+dart_entrypoint_args
+pdf:totalUnmappedUnicodeChars
+cp:lastModifiedBy
+command
+int
+Iptc4xmpExt:LocationShownProvinceState
+async
+EMIT
+basePath
+MACRO
+com.google.android.inputmethod.latin
+AccessibilityBridge
+exception
+pdf:hasXFA
+references
+TextInput.requestAutofill
+xmpDM:audioChannelType
+deviceId
+CCSDS
+xmpMM:RenditionParams
+verticalText
+verificationMode
+android.util.LongArray
+n1neteen
+getUncaughtExceptionPreHandler
+Irix
+fileList
+onBackPressed
+w:Comments
+_handled
+givenName
+wordperfect:Id
+version
+UIC
+posix_spawn
+xmpDM:videoColorSpace
+text/html
+kotlin.jvm.functions.
+xmpMM
+SWWWS
+kotlinx.coroutines.scheduler.default....
+TextInputClient.updateEditingStateWit...
+Iptc4xmpCore:CiAdrCtry
+pdf:incrementalUpdateCount
+xmpDM:videoFrameRate
+Inch
+xmpDM:audioModDate
+DECREASE
+touchOffset
+android.intent.extra.PROCESS_TEXT_REA...
+GB18030
+libapp.so
+MIME_TYPE
+unicodeBE
+middleInitial
+RestorationChannel
+PHYSICAL_DISPLAY_PLATFORM_VIEW
+codePoint
+Iptc4xmpExt:AddlModelInfo
+SystemUiOverlay.top
+RESULT_PARSE_EXCEPTION
+photoshop:Category
+CR
+http://ns.adobe.com/photoshop/1.0/
+rdf
+photoshop:Instructions
+this$0
+onNewIntent
+xmpMM:InstanceID
+Startup
+selectedItems
+Iptc4xmpExt:LocationCreatedCity
+dc:publisher
+acc
+nine
+flutter_assets
+TextInputClient.performPrivateCommand
+parsers
+androidx.profileinstaller.action.SKIP...
+already_active
+addSuppressed
+SNIA
+embeddedResourceType
+rel
+pdf:hasMarkedContent
+addressCountry
+add
+LIGHT
+encoding
+DID_LOSE_ACCESSIBILITY_FOCUS
+localName
+parser
+phoneCountryCode
+telephoneNumberCountryCode
+http://ns.adobe.com/tiff/1.0/
+Little
+http
+msoffice:ocxName
+tika:uti
+decimal
+TextInput.setEditableSizeAndTransform
+pdf:embeddedFileSubtype
+dcterms:modified
+SET_SELECTION
+forty
+io.flutter.embedding.android.OldGenHe...
+BITMAP_MASKABLE
+maxEntityExpansions
+label
+message
+pdf:illustrator:type
+warc:warning
+scanCode
+FlutterJNI
+java.util.function.Consumer
+setDisplayFeatures
+HapticFeedbackType.lightImpact
+xmpRigths
+detected
+METADATA
+font:name
+creditCardExpirationDay
+username
+xmpDM:tempo
+UNDEFINED
+WSSWW_24p
+dexopt/baseline.prof
+kotlinx.coroutines.internal.StackTrac...
+4/4
+UPU
+createSegment
+TextInputType.none
+Iptc4xmpExt:Event
+TextInputAction.none
+seventy
+Iptc4xmpCore:CiAdrRegion
+_rootCause
+signature:date
+script
+epub:version
+RESULT_NOT_WRITABLE
+io.flutter.Entrypoint
+CLIP_RECT
+exif
+RESULT_INSTALL_SKIP_FILE_SUCCESS
+other
+EMITTER_NOT_FOUND
+16Int
+android.intent.extra.TEXT
+wordperfect:FileId
+Iptc4xmpExt:CVterm
+cell
+URI
+isindex
+FlutterTextureView
+URL
+signature:location
+org.apache.tika.service.error.warn
+kotlin.Long
+URS
+PING
+com.tekartik.sqflite
+Completing
+addressRegion
+pdf:associatedFileRelationship
+slf4j.internal.verbosity
+prg_ID
+_resumed
+phonenumbers
+emitters
+TextInputType.multiline
+access_permission:assemble_document
+getChildId
+slf4j.internal.report.stream
+runningWorkers
+noResult
+LF
+DESTROYED
+Northernmost_Latitude
+selectionExtent
+SystemChrome.setEnabledSystemUIOverlays
+xmpDM:scene
+kotlin.collections.Collection
+UTC
+fieldset
+xmpTPg
+screen
+photoshop:Urgency
+invalid_format_type
+body
+CRASHED
+TextInputAction.send
+onStart
+database:table_name
+CCIR
+_isCompleting
+sqlite_error
+noDrop
+flutter/keydata
+read
+photoshop:City
+memoryPressure
+alt
+NetBSD
+touch
+onResume
+java.util.List
+hybrid
+kotlin.Int
+detector
+pdf:unmappedUnicodeCharsPerPage
+wordperfect:ProductType
+OSGi
+handleLifecycleEvent
+xmpDM:scaleType
+indent
+amp
+COMPLETING_ALREADY
+Windows
+media
+3GPP2
+java.lang.Iterable
+Westernmost_Longitude
+OASIS
+kotlinx.coroutines.DefaultExecutor.ke...
+NO_FETCHER_FOUND
+and
+info.displayFeatures
+synchronizeToNativeViewHierarchy
+plus:LicensorTelephone1
+plus:LicensorTelephone2
+fifteen
+windowConfiguration
+any
+resizeUpRight
+getDatabasesPath
+androidx.window.extensions.layout.Win...
+mime.type.magic
+flutter/lifecycle
+TextInputType.number
+embeddedStorageClassId
+getParentNodeId
+Iptc4xmpExt:ArtworkOrObject
+unamed
+THROW
+reflowable
+activity.applicationContext
+getAppBounds
+SystemChrome.setEnabledSystemUIMode
+jdk.xml.entityExpansionLimit
+receiveSegment
+android.widget.HorizontalScrollView
+java
+NO_CLOSE_CAUSE
+INCREASE
+ERROR
+xmp:ModifyDate
+creditCardExpirationMonth
+cache
+deltaText
+AAQG
+2.0.99
+io.flutter.embedding.android.EnableSu...
+000
+Entry_Title
+allowedExtensions
+_COROUTINE.
+REMOVE_FROZEN
+IAU
+System.out
+.tmp
+fetcher
+FilePickerUtils
+DROP_SHADER_CACHE
+kotlin.collections.ListIterator
+oemFeature.bounds
+default
+ARSO
+getKeyboardState
+TextInputClient.updateEditingStateWit...
+iframe
+ftp://
+xmpDM:metadataModDate
+blockingTasksInBuffer
+call
+recovered
+streetAddress
+kotlin.Char
+ACTION_ARGUMENT_EXTEND_SELECTION_BOOLEAN
+flutter/isolate
+grab
+sysout
+_decisionAndIndex
+dimen
+java.util.ListIterator
+DefaultDispatcher
+kotlin.Double
+onActivityResult
+view
+allScroll
+UL
+SystemChrome.systemUIChange
+A4L
+database:row_count
+SSWWW_24p
+IEEE
+pdf:ocrPageCount
+access_permission:can_print_faithful
+includeSubdomains
+unreachable
+IEC
+dc:relation
+model_name_english
+creditCardSecurityCode
+FULL
+WARN
+noframes
+flutter
+NTSC
+name
+fields
+DartExecutor
+dc:identifier
+getDescriptor
+keymap
+string
+bool
+FlutterLoader
+aux
+deltaStart
+dc:coverage
+kotlin.coroutines.jvm.internal.BaseCo...
+android
+nameSuffix
+java.lang.module.ModuleDescriptor
+description
+textScaleFactor
+namePrefix
+io.flutter.embedding.android.NormalTheme
+SUSPEND_NO_WAITER
+Dispatchers.Main
+FlutterSurfaceView
+Cancelled
+realization
+xhtml
+enableSuggestions
+dc:contributor
+middleName
+SSDA
+window
+personFamilyName
+SHIFT_JIS
+Cancelling
+CLIP_RRECT
+Resample
+allowMultipleSelection
+TIKA_CONFIG
+logger
+_isCompleted
+.so
+hybridFallback
+getBounds
+EmptyCoroutineContext
+ACTION_ARGUMENT_SELECTION_END_INT
+dc:type
+s3://
+TextInputAction.search
+PasswordProtected
+NOT_COMPLETED
+PESC
+pdf:docinfo:creator
+dart_entrypoint
+kotlinx.coroutines.scheduler.core.poo...
+kotlinx.coroutines.scheduler.max.pool...
+double
+eighteen
+newPassword
+xmpDM
+smsOTPCode
+flutter_deeplinking_enabled
+COPANT
+xmpDM:numberOfBeats
+kotlin.Short
+getDisplayFeatures
+tiff:YResolution
+photoshop:AuthorsPosition
+cursorPageSize
+Dispatchers.Unconfined
+flags
+pattern
+onPause
+SystemUiOverlay.bottom
+kotlinx.coroutines.bufferedChannel.ex...
+enabled
+tika.config
+DStan
+resuming_sender
+stackTrace
+setDirection
+ANSI
+MSB
+Iptc4xmpExt:DigImageGUID
+java.util.Map$Entry
+acronym
+display
+SpellCheck.initiateSpellCheck
+Iptc4xmpExt:MaxAvailHeight
+composingExtent
+pdf:hasXMP
+xmpBJ
+image/
+Iptc4xmpExt:RegItemId
+birthDateDay
+xmpDM:stretchMode
+libflutter.so
+width
+sendSegment
+_parentHandle
+kotlinx.coroutines.fast.service.loader
+completedExpandBuffersAndPauseFlag
+insets
+kotlin.Any
+Brightness.dark
+java.class.path
+html_meta
+initialDirectory
+Iptc4xmpExt:OrganisationInImageCode
+selectionBase
+SettingsChannel
+plainCodePoint
+getWindowLayoutComponent
+_reusableCancellableContinuation
+android.view.View
+java.lang.Byte
+pdf:docinfo:subject
+th0usand
+DETECTED
+warc:
+deltaEnd
+exif:FNumber
+kind
+IMO
+IMS
+_consensus
+CANCELLED
+SCROLL_UP
+CLOSED_EMPTY
+kotlin.collections.Iterator
+tika.mime.file
+TextInputClient.requestExistingInputS...
+Iptc4xmpExt:LocationShownCountryName
+option
+Iptc4xmpExt:AOCopyrightNotice
+ASAM
+plus:LicensorURL
+wm.defaultDisplay
+SET_TEXT
+INTERMEDIATE_RESULT
+SystemChrome.restoreSystemUIOverlays
+unexpected
+NO_RECEIVE_RESULT
+insert
+EFI
+EASC
+basefont
+continueOnError
+kotlin.Enum
+Bitmap
+Iptc4xmpExt:AOTitle
+http://ns.adobe.com/exif/1.0/
+deltas
+EGA
+uniqueIdentifier
+jpg
+move
+9/8
+maxJsonStringFieldLength
+CCITT
+poolSize
+setPosture
+HFSB
+WindowInsetsCompat
+android.intent.action.PROCESS_TEXT
+dc:date
+32Int
+LAST_WINS
+extent
+IFSWF
+getModule
+32Float
+Iptc4xmpExt:AODateCreated
+AIDMO
+tooltip
+dc:format
+Iptc4xmpExt:OrganisationInImageName
+flutter/keyboard
+systemStatusBarContrastEnforced
+forNameICU
+draft
+plus:LicensorId
+androidx.lifecycle.LifecycleDispatche...
+f0rty
+xmp:CreateDate
+getSuppressed
+rendering:
+Embedded
+DartMessenger
+PASC
+SHOULD_BUFFER
+signature:name
+tiff:Orientation
+MOVE_CURSOR_BACKWARD_BY_WORD
+kotlin.Unit
+tika_pg:page_rotation
+kotlinx.coroutines.scheduler.resoluti...
+getType
+birthdayDay
+kotlin.jvm.internal.StringCompanionOb...
+IRIX
+xmpRights
+:memory:
+xmpDM:artist
+java.
+br
+resizeUpDown
+SystemSoundType.click
+sed
+RDF
+popRoute
+xmpDM:videoCompressor
+androidx.window.extensions.WindowExte...
+%02x
+Upper
+sixty
+completion
+set
+ISO
+plus:ImageCreator
+ACI
+cm
+cp
+FRAMEWORK_CLIENT
+flutter/scribe
+xmpRights:
+INACTIVE
+android.intent.action.PICK
+REL
+enableOnBackInvokedCallbackState
+xmpDM:albumArtist
+xmpRights:WebStatement
+hasSignature
+dc
+font
+dd
+pdf:has3D
+LINUX
+dl
+ITU
+INFO
+dt
+http://purl.org/dc/terms/
+contact
+configurationId
+image
+SCROLL_TO_OFFSET
+Failed
+OPACITY
+Iptc4xmpExt
+NonDisposableHandle
+IRMM
+IETF
+metadataFilters
+AES
+fourteen
+encodingDetectors
+5.1
+Iptc4xmpCore:SubjectCode
+countryName
+MIPS
+nodeId
+rdf:Description
+inputAction
+frame
+origin
+h1
+h2
+h3
+h4
+extendedAddress
+h5
+wm.currentWindowMetrics.bounds
+content
+h6
+statusBarColor
+metadataListFilter
+contentCommitMimeTypes
+5/4
+class
+six
+Scribe.isStylusHandwritingAvailable
+experiment_id
+os.arch
+FlutterEngineCxnRegstry
+false
+cp:lastPrinted
+parse
+gt
+workerCtl
+TextInputClient.updateEditingState
+form
+obj
+io.flutter.embedding.android.LeakVM
+resizeLeft
+pushRouteInformation
+androidx.window.extensions.layout.Fol...
+TextInputAction.next
+setInitialRoute
+pdf:embeddedFileAnnotationType
+select
+CompositeEncodingDetector
+W3C
+signature:reason
+hr
+TEXT
+fs:
+clipboard
+pdf:docinfo:creator_tool
+HINGE
+java.lang.Character
+rtf_meta
+four
+$newLayoutInfo
+context
+dcterms
+id
+birthdayYear
+raw:
+pdf:hasAcroFormFields
+it
+params
+UNDECIDED
+Mac
+announce
+AIX
+TextInputType.address
+geo:alt
+TextInputType.url
+kotlin.jvm.internal.
+charset
+telephoneNumber
+cancelBackGesture
+mimeTypeRepository
+cursorId
+ASME
+cp:contentStatus
+pst:discriptorNodeId
+SKIP
+bundle
+table
+androidThreadPriority
+onDestroy
+miguelruivo.flutter.plugins.filepicke...
+secondOrganization
+personNameSuffix
+kotlin.jvm.functions.Function
+plus:Version
+resizeLeftRight
+platformBrightness
+android.widget.ScrollView
+equals
+msoffice:progID
+Message:
+li
+/data/misc/profiles/ref/
+flutter/processtext
+newUsername
+lt
+ALT
+_size
+photoshop:Credit
+personMiddleInitial
+cleartextTrafficPermitted
+SWWWS_24p
+DID_GAIN_ACCESSIBILITY_FOCUS
+kotlin.Number
+DeviceOrientation.portraitDown
+AMN
+TASK
+NULL
+TOO_LATE_TO_CANCEL
+IATA
+emitterName
+exif:PageCount
+photoshop
+plus
+io.flutter.embedding.android.Impeller...
+grabbing
+alwaysUse24HourFormat
+pdf:
+CDATA
+TextInputType.visiblePassword
+p0
+birthday
+no
+plus:LicensorRegion
+code
+FilePickerDelegate
+sql
+head
+receivers
+kotlin.Comparable
+oh
+xmpMM:RenditionClass
+wordperfect
+ol
+xmpDM:relativePeakAudioFilePath
+show_password
+consumer
+TRACE
+nativeSpellCheckServiceDefined
+baseKey
+or
+src
+currentDisplay
+longPress
+DEBUG
+COROUTINE_SUSPENDED
+pst:isValid
+Share.invoke
+flutter/textinput
+plus:LicensorID
+pdf:docinfo:created
+xmpDM:audioSampleType
+metadata
+SPARC
+createAsync
+.Companion
+java.util.Map
+/data/misc/profiles/cur/0
+xmpMM:History:InstanceID
+mainOrganization
+BOTTOM_OVERLAYS
+PARSE_EXCEPTION_NO_EMIT
+inputStream
+readOnly
+xmpDM:videoModDate
+kotlin.Array
+accept
+pdfa:
+ASTM
+pdf:embeddedFileDescription
+twelve
+CONDITION_FALSE
+geo:long
+ARM
+interpreted
+xmpidq
+xmpDM:releaseDate
+activity
+DCMI
+plus:CopyrightOwnerID
+EXCEPTION
+yyyy:MM:dd
+fourty
+dc:rights
+fetchers
+SystemUiMode.immersive
+zer0
+IBM855
+HALF_OPENED
+audio
+$this$$receiver
+xmpDM:videoFieldOrder
+ImageTextureRegistryEntry
+key
+email
+kotlin.Enum.Companion
+RESOURCE
+javax.xml.stream.isValidating
+e1ght
+profileinstaller_profileWrittenFor_la...
+creditCardExpirationDate
+obscureText
+plus:CopyrightOwnerId
+one
+WRITE_SKIP_FILE
+kotlin.Float
+td
+IBM866
+th
+handled
+resizeRight
+SystemNavigator.pop
+compressed
+TextInputAction.newline
+to
+io.flutter.embedding.android.EnableVu...
+_prev
+cp:category
+tr
+Lower
+loader
+wordperfect:Version
+primaryColor
+dest
+personGivenName
+zero
+project_id
+ul
+Iptc4xmpExt:LocationShownCity
+dynamic
+wordperfect:Build
+TOP_OVERLAYS
+Dispatchers.Default
+KEEP_ALL
+PROPERTY
+query
+java.util.Collection
+CLOSE_HANDLER_CLOSED
+HIDDEN
+NOP
+it.binaryMessenger
+postalAddressExtendedPostalCode
+NOT_IN_STACK
+TextInputAction.previous
+android.intent.extra.TITLE
+fs:accessed
+plus:Licensor
+removeObserver
+ON_DESTROY
+destination
+enableDeltaModel
+Accellera
+xmpDM:absPeakAudioFilePath
+xmpMM:DocumentID
+xmpDM:logComment
+RESULT_ALREADY_INSTALLED
+pdf:docinfo:modified
+closeDatabase
+flutter/mousecursor
+getTypeMethod
+param
+th1rty
+text/plain
+WWWSS
+flutter/system
+WSSWW
+Iptc4xmpExt:LocationShownWorldRegion
+Iptc4xmpCore:CiEmailWork
+Dispatchers.Main.immediate
+onWindowLayoutChangeListenerRemoved
+FAI
+FAO
+FAILED_TO_START
+location
+TITLE
+fileType
+xmp:CreatorTool
+android.intent.extra.PROCESS_TEXT
+pdf:num3DAnnotations
+none
+type
+Vax
+actionLabel
+TextCapitalization.sentences
+slf4j.detectLoggerNameMismatch
+cp:subject
+HapticFeedbackType.mediumImpact
+href
+proof
+xmpDM:speakerPlacement
+openDatabase
+cont
+Sqflite
+plus:ImageCreatorId
+com.android.providers.downloads.docum...
+ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
+DeviceOrientation.portraitUp
+method
+_display_name
+android.provider.extra.INITIAL_URI
+pdf:PDFExtensionVersion
+CONSUMED
+Mono
+org.apache.tika.pipes.PipesServer
+systemNavigationBarContrastEnforced
+tekartik_sqflite.db
+tika_config_path
+ACTION_ARGUMENT_SELECTION_START_INT
+push
+xmpRights:Marked
+_state
+seventeen
+SHOW_ON_SCREEN
+bad_param
+pdf:annotationSubtypes
+application/xml
+plus:ImageCreatorID
+dc:description
+java.lang.Double
+columns
+FOCUS
+range
+flutter/spellcheck
+addListenerMethod
+exif:ExposureTime
+xmpDM:copyright
+feature
+get
+oneTimeCode
+dark
+copy
+precise
+java.lang.Number
+com.ctc.wstx.maxEntityCount
+Iptc4xmpExt:LocationShown
+koi8r
+fs:created
+rtf_meta:emb_topic
+fetcherName
+SystemChrome.setPreferredOrientations
+help
+phoneNumberDevice
+flutter/deferredcomponent
+elements
+URI_MASKABLE
+ON_CREATE
+magic
+plus:CopyrightOwnerName
+data
+http://ns.adobe.com/xap/1.0/bj/
+ON_RESUME
+pdfa:PDFVersion
+HTML
+getWindowExtensionsMethod
+asyncTraceBegin
+TextCapitalization.characters
+embeddedRelationshipId
+xmpDM:audioSampleRate
+create
+TRANSFORM
+tag
+WHO
+localhost
+unknown_path
+thumbnail
+tap
+resource
+kotlin.jvm.internal.EnumCompanionObject
+Hybrid
+RESULT_UNSUPPORTED_ART_VERSION
+webp
+io.flutter.InitialRoute
+controlState
+transition_animation_scale
+rdf:about
+SSWWW
+swipeEdge
+exif:FocalLength
+Active
+postalAddress
+kotlin.collections.Iterable
+telephoneNumberDevice
+f1fteen
+files
+SAI
+send
+metadataPolicy
+Both
+mChildNodeIds
+kotlin.collections.Map.Entry
+link
+PARSE_SUCCESS_WITH_EXCEPTION
+plus:ImageSupplierImageID
+http://purl.org/dc/elements/1.1/
+cat
+xmpDM:key
+kotlin.collections.Set
+android.intent.action.SEND
+getWindowLayoutInfo
+xmpDM:composer
+java.util.Iterator
+WWSSW
+Iptc4xmpExt:ModelAge
+pdf:incrementalUpdateNumber
+onWindowFocusChanged
+TextInputClient.performAction
+match
+BAG
+ON_STOP
+IUPAC
+addressState
+kotlin.CharSequence
+RESULT_IO_EXCEPTION
+Iptc4xmpExt:LocationCreated
+tika_pg:page_number
+file:
+personName
+xmpDM:shotDate
+getState
+boolean
+/file_picker/
+FETCH_EXCEPTION
+VanillaIceCream
+arguments
+emit
+SCROLL_DOWN
+Marking id:locale:2131165242 used because it matches string pool constant locale
+Marking id:topToBottom:2131165271 used because it matches string pool constant top
+Marking id:accessibility_action_clickable_span:2131165184 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_0:2131165185 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_1:2131165186 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_10:2131165187 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_11:2131165188 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_12:2131165189 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_13:2131165190 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_14:2131165191 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_15:2131165192 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_16:2131165193 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_17:2131165194 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_18:2131165195 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_19:2131165196 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_2:2131165197 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_20:2131165198 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_21:2131165199 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_22:2131165200 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_23:2131165201 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_24:2131165202 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_25:2131165203 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_26:2131165204 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_27:2131165205 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_28:2131165206 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_29:2131165207 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_3:2131165208 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_30:2131165209 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_31:2131165210 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_4:2131165211 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_5:2131165212 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_6:2131165213 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_7:2131165214 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_8:2131165215 used because it matches string pool constant accessibility
+Marking id:accessibility_custom_action_9:2131165216 used because it matches string pool constant accessibility
+Marking attr:shortcutMatchRequired:2130903068 used because it matches string pool constant short
+Marking attr:clearTop:2130903045 used because it matches string pool constant clear
+Marking id:info:2131165238 used because it matches string pool constant info
+Marking id:title:2131165270 used because it matches string pool constant title
+Marking layout:custom_dialog:2131296256 used because it matches string pool constant custom
+Marking id:action_container:2131165217 used because it matches string pool constant action
+Marking id:action_divider:2131165218 used because it matches string pool constant action
+Marking id:action_image:2131165219 used because it matches string pool constant action
+Marking id:action_text:2131165220 used because it matches string pool constant action
+Marking id:actions:2131165221 used because it matches string pool constant action
+Marking id:text:2131165267 used because it matches string pool constant text
+Marking id:text2:2131165268 used because it matches string pool constant text
+Marking id:async:2131165227 used because it matches string pool constant async
+Marking id:accessibility_action_clickable_span:2131165184 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_0:2131165185 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_1:2131165186 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_10:2131165187 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_11:2131165188 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_12:2131165189 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_13:2131165190 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_14:2131165191 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_15:2131165192 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_16:2131165193 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_17:2131165194 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_18:2131165195 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_19:2131165196 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_2:2131165197 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_20:2131165198 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_21:2131165199 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_22:2131165200 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_23:2131165201 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_24:2131165202 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_25:2131165203 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_26:2131165204 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_27:2131165205 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_28:2131165206 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_29:2131165207 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_3:2131165208 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_30:2131165209 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_31:2131165210 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_4:2131165211 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_5:2131165212 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_6:2131165213 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_7:2131165214 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_8:2131165215 used because it matches string pool constant acc
+Marking id:accessibility_custom_action_9:2131165216 used because it matches string pool constant acc
+Marking color:androidx_core_ripple_material_light:2130968576 used because it matches string pool constant and
+Marking color:androidx_core_secondary_text_default_material_light:2130968577 used because it matches string pool constant and
+Marking id:androidx_window_activity_scope:2131165226 used because it matches string pool constant and
+Marking string:androidx_startup:2131427328 used because it matches string pool constant and
+Marking color:call_notification_answer_color:2130968578 used because it matches string pool constant call
+Marking color:call_notification_decline_color:2130968579 used because it matches string pool constant call
+Marking string:call_notification_answer_action:2131427329 used because it matches string pool constant call
+Marking string:call_notification_answer_video_action:2131427330 used because it matches string pool constant call
+Marking string:call_notification_decline_action:2131427331 used because it matches string pool constant call
+Marking string:call_notification_hang_up_action:2131427332 used because it matches string pool constant call
+Marking string:call_notification_incoming_text:2131427333 used because it matches string pool constant call
+Marking string:call_notification_ongoing_text:2131427334 used because it matches string pool constant call
+Marking string:call_notification_screening_text:2131427335 used because it matches string pool constant call
+Marking id:view_tree_lifecycle_owner:2131165272 used because it matches string pool constant view
+Marking id:view_tree_on_back_pressed_dispatcher_owner:2131165273 used because it matches string pool constant view
+Marking id:view_tree_saved_state_registry_owner:2131165274 used because it matches string pool constant view
+Marking id:view_tree_view_model_store_owner:2131165275 used because it matches string pool constant view
+Marking color:androidx_core_ripple_material_light:2130968576 used because it matches string pool constant android
+Marking color:androidx_core_secondary_text_default_material_light:2130968577 used because it matches string pool constant android
+Marking id:androidx_window_activity_scope:2131165226 used because it matches string pool constant android
+Marking string:androidx_startup:2131427328 used because it matches string pool constant android
+Marking attr:font:2130903049 used because it matches string pool constant font
+Marking attr:fontProviderAuthority:2130903050 used because it matches string pool constant font
+Marking attr:fontProviderCerts:2130903051 used because it matches string pool constant font
+Marking attr:fontProviderFallbackQuery:2130903052 used because it matches string pool constant font
+Marking attr:fontProviderFetchStrategy:2130903053 used because it matches string pool constant font
+Marking attr:fontProviderFetchTimeout:2130903054 used because it matches string pool constant font
+Marking attr:fontProviderPackage:2130903055 used because it matches string pool constant font
+Marking attr:fontProviderQuery:2130903056 used because it matches string pool constant font
+Marking attr:fontProviderSystemFontFamily:2130903057 used because it matches string pool constant font
+Marking attr:fontStyle:2130903058 used because it matches string pool constant font
+Marking attr:fontVariationSettings:2130903059 used because it matches string pool constant font
+Marking attr:fontWeight:2130903060 used because it matches string pool constant font
+Marking attr:activityAction:2130903040 used because it matches string pool constant activity
+Marking attr:activityName:2130903041 used because it matches string pool constant activity
+Marking attr:queryPatterns:2130903065 used because it matches string pool constant query
+Marking attr:tag:2130903077 used because it matches string pool constant tag
+Marking id:tag_accessibility_actions:2131165254 used because it matches string pool constant tag
+Marking id:tag_accessibility_clickable_spans:2131165255 used because it matches string pool constant tag
+Marking id:tag_accessibility_heading:2131165256 used because it matches string pool constant tag
+Marking id:tag_accessibility_pane_title:2131165257 used because it matches string pool constant tag
+Marking id:tag_on_apply_window_listener:2131165258 used because it matches string pool constant tag
+Marking id:tag_on_receive_content_listener:2131165259 used because it matches string pool constant tag
+Marking id:tag_on_receive_content_mime_types:2131165260 used because it matches string pool constant tag
+Marking id:tag_screen_reader_focusable:2131165261 used because it matches string pool constant tag
+Marking id:tag_state_description:2131165262 used because it matches string pool constant tag
+Marking id:tag_transition_group:2131165263 used because it matches string pool constant tag
+Marking id:tag_unhandled_key_event_manager:2131165264 used because it matches string pool constant tag
+Marking id:tag_unhandled_key_listeners:2131165265 used because it matches string pool constant tag
+Marking id:tag_window_insets_animation_callback:2131165266 used because it matches string pool constant tag
+@anim/fragment_fast_out_extra_slow_in : reachable=false
+@animator/fragment_close_enter : reachable=false
+    @anim/fragment_fast_out_extra_slow_in
+@animator/fragment_close_exit : reachable=false
+    @anim/fragment_fast_out_extra_slow_in
+@animator/fragment_fade_enter : reachable=false
+@animator/fragment_fade_exit : reachable=false
+@animator/fragment_open_enter : reachable=false
+    @anim/fragment_fast_out_extra_slow_in
+@animator/fragment_open_exit : reachable=false
+    @anim/fragment_fast_out_extra_slow_in
+@attr/activityAction : reachable=true
+@attr/activityName : reachable=true
+@attr/alpha : reachable=false
+@attr/alwaysExpand : reachable=false
+@attr/animationBackgroundColor : reachable=false
+@attr/clearTop : reachable=true
+@attr/finishPrimaryWithPlaceholder : reachable=false
+@attr/finishPrimaryWithSecondary : reachable=false
+@attr/finishSecondaryWithPrimary : reachable=false
+@attr/font : reachable=true
+@attr/fontProviderAuthority : reachable=true
+@attr/fontProviderCerts : reachable=true
+@attr/fontProviderFallbackQuery : reachable=true
+@attr/fontProviderFetchStrategy : reachable=true
+@attr/fontProviderFetchTimeout : reachable=true
+@attr/fontProviderPackage : reachable=true
+@attr/fontProviderQuery : reachable=true
+@attr/fontProviderSystemFontFamily : reachable=true
+@attr/fontStyle : reachable=true
+@attr/fontVariationSettings : reachable=true
+@attr/fontWeight : reachable=true
+@attr/lStar : reachable=false
+@attr/nestedScrollViewStyle : reachable=false
+@attr/placeholderActivityName : reachable=false
+@attr/primaryActivityName : reachable=false
+@attr/queryPatterns : reachable=true
+@attr/secondaryActivityAction : reachable=false
+@attr/secondaryActivityName : reachable=false
+@attr/shortcutMatchRequired : reachable=true
+@attr/splitLayoutDirection : reachable=false
+@attr/splitMaxAspectRatioInLandscape : reachable=false
+@attr/splitMaxAspectRatioInPortrait : reachable=false
+@attr/splitMinHeightDp : reachable=false
+@attr/splitMinSmallestWidthDp : reachable=false
+@attr/splitMinWidthDp : reachable=false
+@attr/splitRatio : reachable=false
+@attr/stickyPlaceholder : reachable=false
+@attr/tag : reachable=true
+@attr/ttcIndex : reachable=false
+@color/androidx_core_ripple_material_light : reachable=true
+@color/androidx_core_secondary_text_default_material_light : reachable=true
+@color/call_notification_answer_color : reachable=true
+@color/call_notification_decline_color : reachable=true
+@color/notification_action_color_filter : reachable=false
+    @color/androidx_core_secondary_text_default_material_light
+@color/notification_icon_bg_color : reachable=false
+@dimen/compat_button_inset_horizontal_material : reachable=false
+@dimen/compat_button_inset_vertical_material : reachable=false
+@dimen/compat_button_padding_horizontal_material : reachable=false
+@dimen/compat_button_padding_vertical_material : reachable=false
+@dimen/compat_control_corner_material : reachable=false
+@dimen/compat_notification_large_icon_max_height : reachable=false
+@dimen/compat_notification_large_icon_max_width : reachable=false
+@dimen/notification_action_icon_size : reachable=false
+@dimen/notification_action_text_size : reachable=false
+@dimen/notification_big_circle_margin : reachable=false
+@dimen/notification_content_margin_start : reachable=false
+@dimen/notification_large_icon_height : reachable=false
+@dimen/notification_large_icon_width : reachable=false
+@dimen/notification_main_column_padding_top : reachable=false
+@dimen/notification_media_narrow_margin : reachable=false
+@dimen/notification_right_icon_size : reachable=false
+@dimen/notification_right_side_padding_top : reachable=false
+@dimen/notification_small_icon_background_padding : reachable=false
+@dimen/notification_small_icon_size_as_large : reachable=false
+@dimen/notification_subtext_size : reachable=false
+@dimen/notification_top_pad : reachable=false
+@dimen/notification_top_pad_large_text : reachable=false
+@drawable/ic_call_answer : reachable=false
+@drawable/ic_call_answer_low : reachable=false
+@drawable/ic_call_answer_video : reachable=false
+@drawable/ic_call_answer_video_low : reachable=false
+@drawable/ic_call_decline : reachable=false
+@drawable/ic_call_decline_low : reachable=false
+@drawable/launch_background : reachable=false
+@drawable/notification_action_background : reachable=false
+    @color/androidx_core_ripple_material_light
+    @dimen/compat_button_inset_horizontal_material
+    @dimen/compat_button_inset_vertical_material
+    @dimen/compat_control_corner_material
+    @dimen/compat_button_padding_vertical_material
+    @dimen/compat_button_padding_horizontal_material
+@drawable/notification_bg : reachable=false
+    @drawable/notification_bg_normal_pressed
+    @drawable/notification_bg_normal
+@drawable/notification_bg_low : reachable=false
+    @drawable/notification_bg_low_pressed
+    @drawable/notification_bg_low_normal
+@drawable/notification_bg_low_normal : reachable=false
+@drawable/notification_bg_low_pressed : reachable=false
+@drawable/notification_bg_normal : reachable=false
+@drawable/notification_bg_normal_pressed : reachable=false
+@drawable/notification_icon_background : reachable=false
+    @color/notification_icon_bg_color
+@drawable/notification_oversize_large_icon_bg : reachable=false
+@drawable/notification_template_icon_bg : reachable=false
+@drawable/notification_template_icon_low_bg : reachable=false
+@drawable/notification_tile_bg : reachable=false
+    @drawable/notify_panel_notification_icon_bg
+@drawable/notify_panel_notification_icon_bg : reachable=false
+@id/accessibility_action_clickable_span : reachable=true
+@id/accessibility_custom_action_0 : reachable=true
+@id/accessibility_custom_action_1 : reachable=true
+@id/accessibility_custom_action_10 : reachable=true
+@id/accessibility_custom_action_11 : reachable=true
+@id/accessibility_custom_action_12 : reachable=true
+@id/accessibility_custom_action_13 : reachable=true
+@id/accessibility_custom_action_14 : reachable=true
+@id/accessibility_custom_action_15 : reachable=true
+@id/accessibility_custom_action_16 : reachable=true
+@id/accessibility_custom_action_17 : reachable=true
+@id/accessibility_custom_action_18 : reachable=true
+@id/accessibility_custom_action_19 : reachable=true
+@id/accessibility_custom_action_2 : reachable=true
+@id/accessibility_custom_action_20 : reachable=true
+@id/accessibility_custom_action_21 : reachable=true
+@id/accessibility_custom_action_22 : reachable=true
+@id/accessibility_custom_action_23 : reachable=true
+@id/accessibility_custom_action_24 : reachable=true
+@id/accessibility_custom_action_25 : reachable=true
+@id/accessibility_custom_action_26 : reachable=true
+@id/accessibility_custom_action_27 : reachable=true
+@id/accessibility_custom_action_28 : reachable=true
+@id/accessibility_custom_action_29 : reachable=true
+@id/accessibility_custom_action_3 : reachable=true
+@id/accessibility_custom_action_30 : reachable=true
+@id/accessibility_custom_action_31 : reachable=true
+@id/accessibility_custom_action_4 : reachable=true
+@id/accessibility_custom_action_5 : reachable=true
+@id/accessibility_custom_action_6 : reachable=true
+@id/accessibility_custom_action_7 : reachable=true
+@id/accessibility_custom_action_8 : reachable=true
+@id/accessibility_custom_action_9 : reachable=true
+@id/action_container : reachable=true
+@id/action_divider : reachable=true
+@id/action_image : reachable=true
+@id/action_text : reachable=true
+@id/actions : reachable=true
+@id/adjacent : reachable=false
+@id/always : reachable=false
+@id/alwaysAllow : reachable=false
+@id/alwaysDisallow : reachable=false
+@id/androidx_window_activity_scope : reachable=true
+@id/async : reachable=true
+@id/blocking : reachable=false
+@id/bottomToTop : reachable=false
+@id/chronometer : reachable=false
+@id/dialog_button : reachable=false
+@id/edit_text_id : reachable=false
+@id/forever : reachable=false
+@id/fragment_container_view_tag : reachable=false
+@id/hide_ime_id : reachable=false
+@id/icon : reachable=false
+@id/icon_group : reachable=false
+@id/info : reachable=true
+@id/italic : reachable=false
+@id/line1 : reachable=false
+@id/line3 : reachable=false
+@id/locale : reachable=true
+@id/ltr : reachable=false
+@id/never : reachable=false
+@id/normal : reachable=false
+@id/notification_background : reachable=false
+@id/notification_main_column : reachable=false
+@id/notification_main_column_container : reachable=false
+@id/report_drawn : reachable=false
+@id/right_icon : reachable=false
+@id/right_side : reachable=false
+@id/rtl : reachable=false
+@id/special_effects_controller_view_tag : reachable=false
+@id/tag_accessibility_actions : reachable=true
+@id/tag_accessibility_clickable_spans : reachable=true
+@id/tag_accessibility_heading : reachable=true
+@id/tag_accessibility_pane_title : reachable=true
+@id/tag_on_apply_window_listener : reachable=true
+@id/tag_on_receive_content_listener : reachable=true
+@id/tag_on_receive_content_mime_types : reachable=true
+@id/tag_screen_reader_focusable : reachable=true
+@id/tag_state_description : reachable=true
+@id/tag_transition_group : reachable=true
+@id/tag_unhandled_key_event_manager : reachable=true
+@id/tag_unhandled_key_listeners : reachable=true
+@id/tag_window_insets_animation_callback : reachable=true
+@id/text : reachable=true
+@id/text2 : reachable=true
+@id/time : reachable=false
+@id/title : reachable=true
+@id/topToBottom : reachable=true
+@id/view_tree_lifecycle_owner : reachable=true
+@id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
+@id/view_tree_saved_state_registry_owner : reachable=true
+@id/view_tree_view_model_store_owner : reachable=true
+@id/visible_removing_fragment_view_tag : reachable=false
+@integer/status_bar_notification_info_maxnum : reachable=false
+@layout/custom_dialog : reachable=true
+@layout/ime_base_split_test_activity : reachable=false
+@layout/ime_secondary_split_test_activity : reachable=false
+@layout/notification_action : reachable=false
+    @style/Widget_Compat_NotificationActionContainer
+    @dimen/notification_action_icon_size
+    @style/Widget_Compat_NotificationActionText
+@layout/notification_action_tombstone : reachable=false
+    @style/Widget_Compat_NotificationActionContainer
+    @dimen/notification_action_icon_size
+    @style/Widget_Compat_NotificationActionText
+@layout/notification_template_custom_big : reachable=false
+    @layout/notification_template_icon_group
+    @dimen/notification_large_icon_width
+    @dimen/notification_large_icon_height
+    @dimen/notification_right_side_padding_top
+    @layout/notification_template_part_time
+    @layout/notification_template_part_chronometer
+    @style/TextAppearance_Compat_Notification_Info
+@layout/notification_template_icon_group : reachable=false
+    @dimen/notification_large_icon_width
+    @dimen/notification_large_icon_height
+    @dimen/notification_big_circle_margin
+    @dimen/notification_right_icon_size
+@layout/notification_template_part_chronometer : reachable=false
+    @style/TextAppearance_Compat_Notification_Time
+@layout/notification_template_part_time : reachable=false
+    @style/TextAppearance_Compat_Notification_Time
+@mipmap/ic_launcher : reachable=true
+@string/androidx_startup : reachable=true
+@string/call_notification_answer_action : reachable=true
+@string/call_notification_answer_video_action : reachable=true
+@string/call_notification_decline_action : reachable=true
+@string/call_notification_hang_up_action : reachable=true
+@string/call_notification_incoming_text : reachable=true
+@string/call_notification_ongoing_text : reachable=true
+@string/call_notification_screening_text : reachable=true
+@string/status_bar_notification_info_overflow : reachable=false
+@style/LaunchTheme : reachable=true
+    @drawable/launch_background
+@style/NormalTheme : reachable=true
+@style/TextAppearance_Compat_Notification : reachable=false
+@style/TextAppearance_Compat_Notification_Info : reachable=false
+@style/TextAppearance_Compat_Notification_Line2 : reachable=false
+    @style/TextAppearance_Compat_Notification_Info
+@style/TextAppearance_Compat_Notification_Time : reachable=false
+@style/TextAppearance_Compat_Notification_Title : reachable=false
+@style/Widget_Compat_NotificationActionContainer : reachable=false
+    @drawable/notification_action_background
+@style/Widget_Compat_NotificationActionText : reachable=false
+    @color/androidx_core_secondary_text_default_material_light
+    @dimen/notification_action_text_size
+
+The root reachable resources are:
+ attr:activityAction:2130903040
+ attr:activityName:2130903041
+ attr:clearTop:2130903045
+ attr:font:2130903049
+ attr:fontProviderAuthority:2130903050
+ attr:fontProviderCerts:2130903051
+ attr:fontProviderFallbackQuery:2130903052
+ attr:fontProviderFetchStrategy:2130903053
+ attr:fontProviderFetchTimeout:2130903054
+ attr:fontProviderPackage:2130903055
+ attr:fontProviderQuery:2130903056
+ attr:fontProviderSystemFontFamily:2130903057
+ attr:fontStyle:2130903058
+ attr:fontVariationSettings:2130903059
+ attr:fontWeight:2130903060
+ attr:queryPatterns:2130903065
+ attr:shortcutMatchRequired:2130903068
+ attr:tag:2130903077
+ color:androidx_core_ripple_material_light:2130968576
+ color:androidx_core_secondary_text_default_material_light:2130968577
+ color:call_notification_answer_color:2130968578
+ color:call_notification_decline_color:2130968579
+ id:accessibility_action_clickable_span:2131165184
+ id:accessibility_custom_action_0:2131165185
+ id:accessibility_custom_action_1:2131165186
+ id:accessibility_custom_action_10:2131165187
+ id:accessibility_custom_action_11:2131165188
+ id:accessibility_custom_action_12:2131165189
+ id:accessibility_custom_action_13:2131165190
+ id:accessibility_custom_action_14:2131165191
+ id:accessibility_custom_action_15:2131165192
+ id:accessibility_custom_action_16:2131165193
+ id:accessibility_custom_action_17:2131165194
+ id:accessibility_custom_action_18:2131165195
+ id:accessibility_custom_action_19:2131165196
+ id:accessibility_custom_action_2:2131165197
+ id:accessibility_custom_action_20:2131165198
+ id:accessibility_custom_action_21:2131165199
+ id:accessibility_custom_action_22:2131165200
+ id:accessibility_custom_action_23:2131165201
+ id:accessibility_custom_action_24:2131165202
+ id:accessibility_custom_action_25:2131165203
+ id:accessibility_custom_action_26:2131165204
+ id:accessibility_custom_action_27:2131165205
+ id:accessibility_custom_action_28:2131165206
+ id:accessibility_custom_action_29:2131165207
+ id:accessibility_custom_action_3:2131165208
+ id:accessibility_custom_action_30:2131165209
+ id:accessibility_custom_action_31:2131165210
+ id:accessibility_custom_action_4:2131165211
+ id:accessibility_custom_action_5:2131165212
+ id:accessibility_custom_action_6:2131165213
+ id:accessibility_custom_action_7:2131165214
+ id:accessibility_custom_action_8:2131165215
+ id:accessibility_custom_action_9:2131165216
+ id:action_container:2131165217
+ id:action_divider:2131165218
+ id:action_image:2131165219
+ id:action_text:2131165220
+ id:actions:2131165221
+ id:androidx_window_activity_scope:2131165226
+ id:async:2131165227
+ id:info:2131165238
+ id:locale:2131165242
+ id:tag_accessibility_actions:2131165254
+ id:tag_accessibility_clickable_spans:2131165255
+ id:tag_accessibility_heading:2131165256
+ id:tag_accessibility_pane_title:2131165257
+ id:tag_on_apply_window_listener:2131165258
+ id:tag_on_receive_content_listener:2131165259
+ id:tag_on_receive_content_mime_types:2131165260
+ id:tag_screen_reader_focusable:2131165261
+ id:tag_state_description:2131165262
+ id:tag_transition_group:2131165263
+ id:tag_unhandled_key_event_manager:2131165264
+ id:tag_unhandled_key_listeners:2131165265
+ id:tag_window_insets_animation_callback:2131165266
+ id:text:2131165267
+ id:text2:2131165268
+ id:title:2131165270
+ id:topToBottom:2131165271
+ id:view_tree_lifecycle_owner:2131165272
+ id:view_tree_on_back_pressed_dispatcher_owner:2131165273
+ id:view_tree_saved_state_registry_owner:2131165274
+ id:view_tree_view_model_store_owner:2131165275
+ layout:custom_dialog:2131296256
+ mipmap:ic_launcher:2131361792
+ string:androidx_startup:2131427328
+ string:call_notification_answer_action:2131427329
+ string:call_notification_answer_video_action:2131427330
+ string:call_notification_decline_action:2131427331
+ string:call_notification_hang_up_action:2131427332
+ string:call_notification_incoming_text:2131427333
+ string:call_notification_ongoing_text:2131427334
+ string:call_notification_screening_text:2131427335
+ style:LaunchTheme:2131492864
+ style:NormalTheme:2131492865
+Unused resources are: 
+ anim:fragment_fast_out_extra_slow_in:2130771968
+ animator:fragment_close_enter:2130837504
+ animator:fragment_close_exit:2130837505
+ animator:fragment_fade_enter:2130837506
+ animator:fragment_fade_exit:2130837507
+ animator:fragment_open_enter:2130837508
+ animator:fragment_open_exit:2130837509
+ color:notification_action_color_filter:2130968580
+ color:notification_icon_bg_color:2130968581
+ dimen:compat_button_inset_horizontal_material:2131034112
+ dimen:compat_button_inset_vertical_material:2131034113
+ dimen:compat_button_padding_horizontal_material:2131034114
+ dimen:compat_button_padding_vertical_material:2131034115
+ dimen:compat_control_corner_material:2131034116
+ dimen:compat_notification_large_icon_max_height:2131034117
+ dimen:compat_notification_large_icon_max_width:2131034118
+ dimen:notification_action_icon_size:2131034119
+ dimen:notification_action_text_size:2131034120
+ dimen:notification_big_circle_margin:2131034121
+ dimen:notification_content_margin_start:2131034122
+ dimen:notification_large_icon_height:2131034123
+ dimen:notification_large_icon_width:2131034124
+ dimen:notification_main_column_padding_top:2131034125
+ dimen:notification_media_narrow_margin:2131034126
+ dimen:notification_right_icon_size:2131034127
+ dimen:notification_right_side_padding_top:2131034128
+ dimen:notification_small_icon_background_padding:2131034129
+ dimen:notification_small_icon_size_as_large:2131034130
+ dimen:notification_subtext_size:2131034131
+ dimen:notification_top_pad:2131034132
+ dimen:notification_top_pad_large_text:2131034133
+ drawable:ic_call_answer:2131099648
+ drawable:ic_call_answer_low:2131099649
+ drawable:ic_call_answer_video:2131099650
+ drawable:ic_call_answer_video_low:2131099651
+ drawable:ic_call_decline:2131099652
+ drawable:ic_call_decline_low:2131099653
+ drawable:notification_action_background:2131099655
+ drawable:notification_bg:2131099656
+ drawable:notification_bg_low:2131099657
+ drawable:notification_bg_low_normal:2131099658
+ drawable:notification_bg_low_pressed:2131099659
+ drawable:notification_bg_normal:2131099660
+ drawable:notification_bg_normal_pressed:2131099661
+ drawable:notification_icon_background:2131099662
+ drawable:notification_oversize_large_icon_bg:2131099663
+ drawable:notification_template_icon_bg:2131099664
+ drawable:notification_template_icon_low_bg:2131099665
+ drawable:notification_tile_bg:2131099666
+ drawable:notify_panel_notification_icon_bg:2131099667
+ id:adjacent:2131165222
+ id:always:2131165223
+ id:alwaysAllow:2131165224
+ id:alwaysDisallow:2131165225
+ id:blocking:2131165228
+ id:bottomToTop:2131165229
+ id:chronometer:2131165230
+ id:dialog_button:2131165231
+ id:edit_text_id:2131165232
+ id:forever:2131165233
+ id:fragment_container_view_tag:2131165234
+ id:hide_ime_id:2131165235
+ id:icon:2131165236
+ id:icon_group:2131165237
+ id:italic:2131165239
+ id:line1:2131165240
+ id:line3:2131165241
+ id:ltr:2131165243
+ id:never:2131165244
+ id:normal:2131165245
+ id:notification_background:2131165246
+ id:notification_main_column:2131165247
+ id:notification_main_column_container:2131165248
+ id:report_drawn:2131165249
+ id:right_icon:2131165250
+ id:right_side:2131165251
+ id:rtl:2131165252
+ id:special_effects_controller_view_tag:2131165253
+ id:time:2131165269
+ id:visible_removing_fragment_view_tag:2131165276
+ integer:status_bar_notification_info_maxnum:2131230720
+ layout:ime_base_split_test_activity:2131296257
+ layout:ime_secondary_split_test_activity:2131296258
+ layout:notification_action:2131296259
+ layout:notification_action_tombstone:2131296260
+ layout:notification_template_custom_big:2131296261
+ layout:notification_template_icon_group:2131296262
+ layout:notification_template_part_chronometer:2131296263
+ layout:notification_template_part_time:2131296264
+ string:status_bar_notification_info_overflow:2131427336
+ style:TextAppearance_Compat_Notification:2131492866
+ style:TextAppearance_Compat_Notification_Info:2131492867
+ style:TextAppearance_Compat_Notification_Line2:2131492868
+ style:TextAppearance_Compat_Notification_Time:2131492869
+ style:TextAppearance_Compat_Notification_Title:2131492870
+ style:Widget_Compat_NotificationActionContainer:2131492871
+ style:Widget_Compat_NotificationActionText:2131492872
+Skipped unused resource res/anim-v21/fragment_fast_out_extra_slow_in.xml: 230 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/animator/fragment_close_enter.xml: 2133 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/animator/fragment_close_exit.xml: 2133 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/animator/fragment_fade_enter.xml: 543 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/animator/fragment_fade_exit.xml: 543 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/animator/fragment_open_enter.xml: 2135 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/animator/fragment_open_exit.xml: 2135 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/ic_call_answer.xml: 1515 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/ic_call_answer_low.xml: 1373 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/ic_call_answer_video.xml: 931 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/ic_call_answer_video_low.xml: 789 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/ic_call_decline.xml: 1689 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/ic_call_decline_low.xml: 1547 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable-v21/notification_action_background.xml: 2250 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/notification_bg.xml: 751 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/notification_bg_low.xml: 753 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/notification_icon_background.xml: 314 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable/notification_tile_bg.xml: 319 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png: 98 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_oversize_large_icon_bg.png: 909 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png: 107 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png: 252 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png: 247 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png: 138 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/layout/ime_base_split_test_activity.xml: 365 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/layout/ime_secondary_split_test_activity.xml: 1465 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/layout-v21/notification_action.xml: 2216 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/layout-v21/notification_action_tombstone.xml: 2677 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/layout-v21/notification_template_custom_big.xml: 6318 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/layout-v21/notification_template_icon_group.xml: 2432 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/layout/notification_template_part_chronometer.xml: 643 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/layout/notification_template_part_time.xml: 630 bytes (replaced with small dummy file of size 9 bytes)

@@ -1,0 +1,2 @@
+G:/project/flutter/vocabbook/android/app/.cxx/RelWithDebInfo/3p141c53/x86_64/CMakeFiles/edit_cache.dir
+G:/project/flutter/vocabbook/android/app/.cxx/RelWithDebInfo/3p141c53/x86_64/CMakeFiles/rebuild_cache.dir
