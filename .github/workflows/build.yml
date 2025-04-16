@@ -1,0 +1,71 @@
+name: Build and Save Release APK/AAB
+
+on:
+  workflow_dispatch:
+
+env:
+  VOCAB_KEYSTORE_FILE: /tmp/vocab-keystore.jks
+  VOCAB_KEYSTORE_PASSWORD: ${{ secrets.VOCAB_KEYSTORE_PASSWORD }}
+  VOCAB_KEY_ALIAS: ${{ secrets.VOCAB_KEY_ALIAS }}
+  VOCAB_KEY_PASSWORD: ${{ secrets.VOCAB_KEY_PASSWORD }}
+
+jobs:
+  build:
+    name: Apk/AAB Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu'
+          java-version: '17'
+
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.29.2'
+
+      - run: flutter pub get
+
+      - name: Setup Keystore
+        run: |
+          echo "${{ secrets.VOCAB_KEYSTORE_JSK }}" | base64 -d > $VOCAB_KEYSTORE_FILE
+          ls -la
+
+      - name: Build APK
+        run: flutter build apk --release
+
+      - name: Build AAB
+        run: flutter build appbundle --release
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v1.0.0-${{ github.run_id }}
+          release_name: Release v1.0.0 (Build ${{ github.run_id }})
+          draft: false
+          prerelease: false
+
+      - name: Upload APK to Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: build/app/outputs/flutter-apk/app-release.apk
+          asset_name: app-release.apk
+          asset_content_type: application/vnd.android.package-archive
+
+      - name: Upload AAB to Release
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: build/app/outputs/bundle/release/app-release.aab
+          asset_name: app-release.aab
+          asset_content_type: application/octet-stream
