@@ -1,1 +1,0 @@
- G:\\project\\flutter\\vocabbook\\.dart_tool\\flutter_build\\61a5074dc142919da937b3a486e056e8\\native_assets.json: 
