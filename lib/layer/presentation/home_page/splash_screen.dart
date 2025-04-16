@@ -17,7 +17,7 @@ class _SplashScreenState extends State<SplashScreen> {
   }
   nextPage(){
     Route route=MaterialPageRoute(builder: (context) => HomePage(),);
-    Navigator.push(context, route);
+    Navigator.pushAndRemoveUntil(context, route, (Route<dynamic> route) => false,);
   }
   @override
   Widget build(BuildContext context) {

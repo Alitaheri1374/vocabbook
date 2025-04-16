@@ -46,7 +46,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: v1.0.0-${{ github.run_id }}
-          release_name: Release v1.0.0 (Build ${{ github.run_id }})
+          release_name: Release v1.0.2 (Build ${{ github.run_id }})
           draft: false
           prerelease: false
 
